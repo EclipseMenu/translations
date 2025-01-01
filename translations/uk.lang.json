@@ -3,6 +3,7 @@
     "language-code": "uk",
     "language-native": "Українська",
     "language-charset": "cyrillic",
+    "language-fallback": "",
     "common.create": "Створити",
     "common.cancel": "Скасувати",
     "common.warning": "Увага",
@@ -18,5 +19,12 @@
     "tab.bot": "Повтор",
     "tab.bypass": "Обхід",
     "tab.creator": "Редактор",
-    "tab.global": "Глобальне"
+    "tab.global": "Глобальне",
+    "tab.interface": "Інтерфейс",
+    "tab.keybinds": "Гарячі клавіші",
+    "tab.labels": "Статуси",
+    "tab.level": "Рівень",
+    "tab.player": "Гравець",
+    "tab.recorder": "Вбудований Записувач",
+    "tab.shortcuts": "Скорочення"
 }
