@@ -64,6 +64,8 @@
     "bypass.practicemusic": "Practice Music Sync",
     "bypass.practicemusic.desc": "Alıştırma modunda normal mod müziğini kullanma yeteneğinin kilidini açar.",
     "bypass.musiccustomizer": "Müzik Kişiselleştiricisi",
+    "bypass.pausebuffering": "Pause Buffering",
+    "bypass.pausebuffering.desc": "Oyunun pause buffering hatasını engellemesini engeller.",
     "bypass.unlockicons": "İkonların Kilidini Aç",
     "bypass.unlockicons.desc": "Garajdaki tüm ikonların ve renklerin kilidini açar.",
     "bypass.unlockmainlevels": "Ana Seviyelerin Kilidini Aç",
