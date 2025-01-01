@@ -3,6 +3,7 @@
     "language-code": "en",
     "language-native": "English",
     "language-charset": "default",
+    "language-fallback": "en",
 
     "common.create": "Create",
     "common.cancel": "Cancel",
