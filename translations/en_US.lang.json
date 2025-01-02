@@ -1,10 +1,8 @@
 {
     "language-name": "English",
-    "language-code": "en",
     "language-native": "English",
     "language-charset": "default",
-    "language-fallback": "en",
-
+    "language-fallback": "en_US",
     "common.create": "Create",
     "common.cancel": "Cancel",
     "common.warning": "Warning",
@@ -17,7 +15,6 @@
     "common.save": "Save",
     "common.load": "Load",
     "common.delete": "Delete",
-
     "tab.bot": "Bot",
     "tab.bypass": "Bypass",
     "tab.creator": "Creator",
@@ -29,7 +26,6 @@
     "tab.player": "Player",
     "tab.recorder": "Internal Recorder",
     "tab.shortcuts": "Shortcuts",
-
     "bot.new-replay": "New Replay",
     "bot.new-replay.msg": "Enter a name for the new replay:",
     "bot.overwrite": "Are you sure you want to overwrite {}?",
@@ -48,7 +44,6 @@
     "bot.record": "Record",
     "bot.playback": "Playback",
     "bot.replays": "Replays",
-
     "bypass.allowlowvolume": "Allow Low Volume",
     "bypass.allowlowvolume.desc": "Allows setting the volume lower than 3%.",
     "bypass.charfilter": "Character Filter Bypass",
@@ -79,7 +74,6 @@
     "bypass.unlockshops.desc": "Access all shops without having to meet the requirements.",
     "bypass.unlockvaults": "Unlock Vaults",
     "bypass.unlockvaults.desc": "Unlock all vaults and secrets in the game.",
-
     "bypass.copybypass": "Level Copy Bypass",
     "bypass.copybypass.desc": "Allows you to copy any level.",
     "creator.customobjectbypass": "Custom Object Bypass",
@@ -106,7 +100,6 @@
     "creator.smoothtrail.desc": "Makes the trail in editor playback smoother.",
     "bypass.verifyhack": "Verify Bypass",
     "bypass.verifyhack.desc": "Automatically verifies levels for you.",
-
     "global.audiospeed": "Audio Speed",
     "global.audiospeed.desc": "Changes the speed of the audio.",
     "global.audiospeed.sync": "Sync with Speedhack",
@@ -182,7 +175,6 @@
     "global.transitionspeed.desc": "Changes the speed of transitions between menus.",
     "global.transparentlists": "Transparent Lists",
     "global.transparentlists.desc": "Makes list backgrounds transparent.",
-
     "interface.theme": "Theme",
     "interface.ui-scale": "UI Scale",
     "interface.font": "Font",
@@ -199,7 +191,6 @@
     "interface.font-not-found": "This language pack requires an additional font to be installed.\nWould you like to download it?",
     "interface.font-download": "Downloading font...",
     "interface.font-download-fail": "Failed to download font. Error code: {}",
-
     "keybinds.open-menu": "Open Menu",
     "keybinds.in-game-only": "In-game only",
     "keybinds.in-game-only.desc": "Makes keybinds only usable while in a level.",
@@ -208,7 +199,6 @@
     "keybinds.remove": "Remove Keybind",
     "keybinds.press-key": "Press any key to change the keybind...",
     "keybinds.press-esc": "Press ESC to cancel...",
-
     "labels.visible": "Show Labels",
     "labels.visible.desc": "Toggles the visibility of the labels.",
     "labels.cheat-indicator.visible": "Cheat Indicator",
@@ -276,7 +266,6 @@
     "labels.import": "Import Label",
     "labels.delete-prompt": "Delete Label?",
     "labels.delete-prompt.msg": "Are you sure you want to delete this label?",
-
     "level.accuratepercentage": "Accurate Percentage",
     "level.accuratepercentage.desc": "Allows for more decimals in a level percentage, and adds other useful utilities.",
     "level.accuratepercentage.normal_mode": "Normal Mode",
@@ -376,7 +365,6 @@
     "level.stoptrigondeath.desc": "Stops all triggers from continuing when you die.\n(Warning: May break some levels that rely on death trigger)",
     "level.zeropercentpractice": "0% Practice Completion",
     "level.zeropercentpractice.desc": "Treats completions from 0% in Practice Mode as Normal Mode completions",
-
     "player.autoclick": "AutoClicker",
     "player.autoclick.desc": "Clicks periodically when playing levels. Applies to both the level editor and actual levels.",
     "player.autoclick.p1": "Player 1",
@@ -449,7 +437,6 @@
     "player.showtrajectory.iterations": "Iterations",
     "player.solidwavetrail": "Solid Wave Trail",
     "player.solidwavetrail.desc": "Makes the player wave trail a solid color",
-
     "recorder.finished": "Recording finished!",
     "recorder.open-folder": "Open folder",
     "recorder.start": "Start Recording",
@@ -471,7 +458,6 @@
     "recorder.preset.amd": "AMD",
     "recorder.audio": "Audio",
     "recorder.audio.msg": "Record audio?",
-
     "shortcuts.p1jump": "P1 Jump",
     "shortcuts.p2jump": "P2 Jump",
     "shortcuts.options": "Show Options",
