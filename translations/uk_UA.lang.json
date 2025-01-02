@@ -2,7 +2,6 @@
     "language-name": "Ukrainian",
     "language-native": "Українська",
     "language-charset": "cyrillic",
-    "language-fallback": "en_US",
     "common.create": "Створити",
     "common.cancel": "Скасувати",
     "common.warning": "Увага",
