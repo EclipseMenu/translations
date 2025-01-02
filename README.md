@@ -29,8 +29,7 @@ Metadata is stored at the top of the file, and contains the following fields:
 ```json5
 {
     "language-name": "English",    // The name of the language in English
-    "language-code": "en_US",      // The language code 
-    "language-native": "English",  // The name of the language in its native language
+    "language-native": "English",  // The name of the language in its native form.
     "language-charset": "default", // The character set of the language
     "language-fallback": "en",     // The fallback language code (defaults to English)
     
@@ -38,7 +37,7 @@ Metadata is stored at the top of the file, and contains the following fields:
 }
 ```
 
-`language-name`, `language-code` and `language-native` are required and should be self-explanatory.
+`language-name`, and `language-native` are required and should be self-explanatory.
 
 `language-charset` is optional and defaults to `default`.
 If the language uses a different character set, you can specify it here.

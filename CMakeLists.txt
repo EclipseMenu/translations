@@ -9,7 +9,7 @@ function(setup_translations target)
 
     # Refresh translations on every build
     add_custom_command(
-        TARGET ${target} POST_BUILD
+        TARGET ${target} PRE_LINK
         COMMAND ${CMAKE_COMMAND} -E copy_directory
         ${TRANSLATIONS_PATH}/translations
         ${CMAKE_SOURCE_DIR}/resources/translations
