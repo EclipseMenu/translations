@@ -1,10 +1,11 @@
 cmake_minimum_required(VERSION 3.21)
 
 function(setup_translations target)
-    if (DEFINED ENV{ECLIPSE_TRANSLATIONS_REPO_PATH})
-        set(TRANSLATIONS_PATH $ENV{ECLIPSE_TRANSLATIONS_REPO_PATH})
-    else()
-        set(TRANSLATIONS_PATH ${CMAKE_CURRENT_BINARY_DIR}/eclipse-translations)
+    if (DEFINED TRANSLATIONS_PATH)
+        message(STATUS "Using translations from: ${TRANSLATIONS_PATH}.")
+        if (NOT DEFINED ENV{ECLIPSE_TRANSLATIONS_REPO_PATH})
+            message(STATUS "To use local translations, set ECLIPSE_TRANSLATIONS_REPO_PATH environment variable.")
+        endif()
     endif()
 
     # Refresh translations on every build
