@@ -1,5 +1,6 @@
 {
     "language-name": "LOLCAT",
     "language-native": "LOLCAT",
-    "common.create": "Creat"
+    "common.create": "Create",
+    "common.cancel": "Cancel"
 }
