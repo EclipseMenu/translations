@@ -241,5 +241,9 @@
     "labels.events.types.2": "عند الموت",
     "labels.events.types.3": "عند الضغط على الزر",
     "labels.events.types.4": "عند موت في نوكليب",
-    "labels.events.condition": "شرط"
+    "labels.events.condition": "شرط",
+    "labels.events.visible": "ظهور",
+    "labels.events.visible.0": "عدم تعديل",
+    "labels.events.visible.1": "إظهار",
+    "labels.events.visible.2": "إخفاء"
 }
