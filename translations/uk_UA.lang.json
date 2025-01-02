@@ -45,6 +45,7 @@
     "bot.record": "Запис",
     "bot.playback": "Відтворення",
     "bot.replays": "Повтори",
+    "bypass.allowlowvolume": "Дозволити малу гучність",
     "interface.theme": "Тема",
     "interface.ui-scale": "Масштаб",
     "interface.font": "Шрифт",
