@@ -1,6 +1,8 @@
 {
     "language-name": "LOLCAT",
     "language-native": "LOLCAT",
+    "language-charset": "default",
+    "language-fallback": "en_US",
     "common.create": "Create",
     "common.cancel": "Cancel",
     "common.warning": "Warnin",
