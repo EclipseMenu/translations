@@ -2,6 +2,7 @@
     "language-name": "Russian",
     "language-native": "Русский",
     "language-charset": "cyrillic",
+    "language-fallback": "en_US",
     "common.create": "Создать",
     "common.cancel": "Отмена",
     "common.warning": "Внимание",
