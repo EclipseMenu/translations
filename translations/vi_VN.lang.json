@@ -21,6 +21,7 @@
     "tab.labels": "Label",
     "tab.level": "Level",
     "tab.player": "Người Chơi",
+    "tab.shortcuts": "Các Lối Tắt",
     "bot.new-replay": "Tạo Replay Mới",
     "bot.new-replay.msg": "Nhập tên cho replay mới:",
     "bot.overwrite": "Bạn có chắc muốn ghi đè \"{}\" không?",
