@@ -48,5 +48,18 @@
     "bypass.allowlowvolume.desc": "Ermöglicht die Einstellung der Lautstärke unter 3%.",
     "bypass.charfilter": "Charakterfilter-Umgehung",
     "bypass.checkpointlimit": "Checkpoint-Limit",
-    "bypass.checkpointlimit.desc": "Ermöglicht das Platzieren von mehr als 50 Checkpoints im Practice Mode."
+    "bypass.checkpointlimit.desc": "Ermöglicht das Platzieren von mehr als 50 Checkpoints im Practice Mode.",
+    "global.discordrpc": "Discord RPC",
+    "global.discordrpc.desc": "Aktiviert Discord Rich Presence Intergration.",
+    "global.discordrpc.client-id": "Cilent ID",
+    "global.discordrpc.update-rate": "Aktualisierungsintervall (ms)",
+    "global.discordrpc.time-mode": "Zeitmodus",
+    "global.discordrpc.time-mode.0": "Deaktiviert",
+    "global.discordrpc.time-mode.1": "Gesamte Spielzeit",
+    "global.discordrpc.time-mode.2": "Level Spielzeit",
+    "global.discordrpc.time-mode.3": "Gesamte+Level-Spielzeit",
+    "global.discordrpc.menus": "Menüs",
+    "global.discordrpc.menu.details": "Menüdetails",
+    "global.discordrpc.menu.state": "Menüstatus",
+    "global.discordrpc.menu.large-image": "Großes Menübild"
 }
