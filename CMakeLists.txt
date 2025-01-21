@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
 
+# Copies translations from the translations repo to the resources folder on every build
 function(setup_translations target)
     if (DEFINED TRANSLATIONS_PATH)
         message(STATUS "Using translations from: ${TRANSLATIONS_PATH}.")
@@ -15,6 +16,14 @@ function(setup_translations target)
         ${TRANSLATIONS_PATH}/translations
         ${CMAKE_SOURCE_DIR}/resources/translations
         COMMENT "Copying translations..."
+    )
+
+    # Cleanup invalid translations after copying
+    add_custom_command(
+        TARGET ${target} PRE_LINK
+        COMMAND ${CMAKE_COMMAND} -P ${TRANSLATIONS_PATH}/cmake/VerifyLanguages.cmake
+        WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}/resources/translations
+        COMMENT "Cleaning up translations..."
     )
 
     # If using a local repo, set timestamp to a high value to disable translations updates

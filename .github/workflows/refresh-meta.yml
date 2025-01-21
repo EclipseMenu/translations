@@ -18,8 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate metadata.json
-        run: |
-          echo "{\"timestamp\": $(date +%s), \"languages\": [$(ls translations/*.lang.json | sed 's/translations\///;s/.lang.json//;s/^/"/;s/$/"/' | paste -sd,)]}" > ../metadata.json
+        run: ./generate_meta.sh ../metadata.json
 
       - name: Update metadata branch
         run: |
@@ -32,7 +31,7 @@ jobs:
           fi
           mv ../metadata.json metadata.json
           git add metadata.json
-          git config --global user.email "bot@eclipse.menu"
+          git config --global user.email "github@eclipse.menu"
           git config --global user.name "Eclipse Menu Bot"
           git commit -m "Update metadata"
           git push origin metadata
