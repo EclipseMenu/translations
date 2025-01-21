@@ -5,14 +5,18 @@
    </p>
 </div>
 <div align="center">
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/eclipse-menu">
-        <img src="https://badges.crowdin.net/eclipse-menu/localized.svg">
+    <a href="https://translate.eclipse.menu/engage/eclipse/">
+        <img src="https://translate.eclipse.menu/widget/eclipse/translations/svg-badge.svg" alt="Translation status" />
     </a>
 </div>
 
+<div align="center">
+    <img src="https://translate.eclipse.menu/widget/eclipse/translations/multi-auto.svg" alt="Languages"/>
+</div>
+
 ## How to contribute
-### Crowdin translations
-1. Go to the [Crowdin project](https://crowdin.com/project/eclipse-menu)
+### Using web interface
+1. Go to the [Weblate project](https://translate.eclipse.menu/engage/eclipse/)
 2. Sign in or create an account
 3. Start translating
 
@@ -31,7 +35,7 @@ Metadata is stored at the top of the file, and contains the following fields:
     "language-name": "English",    // The name of the language in English
     "language-native": "English",  // The name of the language in its native form.
     "language-charset": "default", // The character set of the language
-    "language-fallback": "en",     // The fallback language code (defaults to English)
+    "language-fallback": "en_US",  // The fallback language code (defaults to English)
     
     // ... translations go here
 }
