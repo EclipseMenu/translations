@@ -18,9 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate metadata.json
-        run: |
-          chmod +x generate_meta.sh
-          ./generate_meta.sh ../metadata.json
+        run: ./generate_meta.sh ../metadata.json
 
       - name: Update metadata branch
         run: |
