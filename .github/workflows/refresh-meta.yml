@@ -21,6 +21,7 @@ jobs:
         run: |
           chmod +x generate_meta.sh
           ./generate_meta.sh ../metadata.json
+          git reset --hard
 
       - name: Update metadata branch
         run: |
