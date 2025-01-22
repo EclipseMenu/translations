@@ -68,6 +68,8 @@
     "bypass.pausebuffering.desc": "Prevents the game from blocking pause buffering.",
     "bypass.unlockicons": "Unlock Icons",
     "bypass.unlockicons.desc": "Unlocks all icons and colors in the garage.",
+    "bypass.unlockpaths": "Unlock Paths",
+    "bypass.unlockpaths.desc": "Unlocks all paths of power.",
     "bypass.unlockmainlevels": "Unlock Main Levels",
     "bypass.unlockmainlevels.desc": "Unlocks all main levels in the game.",
     "bypass.unlockshops": "Unlock Shops",

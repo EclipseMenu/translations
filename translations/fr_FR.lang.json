@@ -62,6 +62,8 @@
     "bypass.pausebuffering.desc": "Empêche le jeu de bloquer la mise en pause du tampon.",
     "bypass.unlockicons": "Déverrouiller les icônes",
     "bypass.unlockicons.desc": "Déverrouille toutes les icônes et les couleurs dans le garage.",
+    "bypass.unlockpaths": "Déverrouiller les chemins",
+    "bypass.unlockpaths.desc": "Déverrouille tous les chemins des chemins de pouvoir.",
     "bypass.unlockmainlevels": "Déverrouiller les niveaux principaux",
     "bypass.unlockmainlevels.desc": "Déverrouille tous les niveaux principaux du jeu.",
     "bypass.unlockshops": "Déverrouiller les boutiques",
