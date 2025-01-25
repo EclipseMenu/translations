@@ -79,7 +79,7 @@
     "creator.customobjectbypass": "Özel Obje Baypas",
     "creator.customobjectbypass.desc": "Özel objeler için 1000 obje sınırının ötesine geçmenizi sağlar.",
     "creator.defaultsongbypass": "Varsayılan Şarkı Baypas",
-    "creator.defaultsongbypass.desc": "Seviye editöründeki gizli şarkıların kilidini açar",
+    "creator.defaultsongbypass.desc": "Seviye editöründeki gizli şarkıların kilidini açar.",
     "creator.editorwave": "Editör Wave İzi",
     "creator.editorwave.desc": "Editör'de wave izini etkinleştirir.",
     "creator.freescroll": "Özgürce Kaydırma",
@@ -478,5 +478,10 @@
     "shortcuts.inject-dll": "DLL Enjekte Et",
     "shortcuts.inject-dll.desc": "Enjekte etmek için bir DLL dosyası seçin.",
     "shortcuts.save-folder": "Kayıt Klasörü",
-    "shortcuts.save-folder.desc": "Oyunun kayıt klasörünü açar."
+    "shortcuts.save-folder.desc": "Oyunun kayıt klasörünü açar.",
+    "menu.animateWindows.desc": "Menü açma/kapatma animasyonlarını etkinleştirir.",
+    "menu.animateWindows": "Pencere Animasyonları",
+    "bypass.unlockpaths": "Pathlerin Kilidini Aç",
+    "bypass.unlockpaths.desc": "Tüm paths of powerların kilidini açar.",
+    "menu.animationDuration": "Animasyon Süresi"
 }
