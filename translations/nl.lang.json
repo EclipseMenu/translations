@@ -11,5 +11,9 @@
     "common.no": "Nee",
     "common.new": "Nieuw",
     "language-name": "Nederlands",
-    "language-charset": "default"
+    "language-charset": "default",
+    "common.save": "Opslaan",
+    "common.load": "Laden",
+    "common.delete": "Verwijderen",
+    "tab.bot": "Bot"
 }
