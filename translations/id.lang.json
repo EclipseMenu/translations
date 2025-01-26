@@ -39,7 +39,7 @@
     "bypass.allowlowvolume": "Izinkan Volume Rendah",
     "bypass.allowlowvolume.desc": "Memungkinkan pengaturan volume lebih rendah dari 3%.",
     "bypass.charfilter": "Bypass Filter Karakter",
-    "bypass.charlimit": "Bypass batasan karakter",
+    "bypass.charlimit": "Bypass Batasan Karakter",
     "bypass.charfilter.desc": "Memungkinkan kamu untuk menghindari filter karakter pada kolom teks manapun.",
     "bypass.checkpointlimit": "Batasan Checkpoint",
     "bot.playback": "Playback",
