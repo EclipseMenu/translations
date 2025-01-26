@@ -191,5 +191,13 @@
     "shortcuts.place-checkpoint": "Place Checkpoint",
     "shortcuts.remove-checkpoint": "Remoov Checkpoint",
     "shortcuts.inject-dll": "Inject DLL",
-    "shortcuts.save-folder": "Save Foldr"
+    "shortcuts.save-folder": "Save Foldr",
+    "global.discordrpc.time-mode.1": "all da playin time",
+    "bypass.unlockpaths.desc": "U unloc da paths of powr :D",
+    "bypass.unlockpaths": "Unlocc da Paths :O",
+    "global.discordrpc.update-rate": "updat intrvol (ms)",
+    "global.discordrpc.time-mode": "time mod",
+    "global.discordrpc.time-mode.0": "no enable :(",
+    "global.discordrpc.time-mode.2": "time u play levl",
+    "global.discordrpc.time-mode.3": "all plus levl playin time (thats alot)"
 }
