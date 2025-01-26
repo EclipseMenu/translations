@@ -342,5 +342,8 @@
     "level.hitbox_multiplier.hazard": "Multiplicador de peligros",
     "level.instantmirror": "Espejo instantáneo",
     "level.instantmirror.desc": "Elimina la transición del portal espejo.",
-    "level.mutelevelsfx": "Silenciar los efectos de sonido del nivel"
+    "level.mutelevelsfx": "Silenciar los efectos de sonido del nivel",
+    "level.pauseduringcomplete": "Puedes pausar mientras estas en la animación de cuando te pasas un nivel",
+    "level.legacyreversephysics": "Volver a las antiguas físicas",
+    "level.noparticles": "Quita las partículas"
 }
