@@ -133,7 +133,6 @@
     "interface.style": "Gaya",
     "interface.enable-blur": "Aktifkan Blur",
     "interface.blur-speed": "Kecepatan Blur",
-    "menu.animateWindows": "",
     "menu.animateWindows.desc": "Mengaktifkan animasi opening/closing menu.",
     "menu.animationDuration": "Durasi Animasi",
     "menu.animationEasingType.0": "Linear",
