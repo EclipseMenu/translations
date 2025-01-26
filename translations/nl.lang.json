@@ -15,5 +15,15 @@
     "common.save": "Opslaan",
     "common.load": "Laden",
     "common.delete": "Verwijderen",
-    "tab.bot": "Bot"
+    "tab.bot": "Bot",
+    "tab.bypass": "Omzeilen",
+    "tab.creator": "Maker",
+    "tab.global": "Globaal",
+    "tab.interface": "Interface",
+    "tab.keybinds": "Sneltoetsen",
+    "tab.level": "Level",
+    "tab.player": "Speler",
+    "tab.recorder": "Interne Opname",
+    "tab.shortcuts": "Snelkoppelingen",
+    "tab.labels": "Labels"
 }
