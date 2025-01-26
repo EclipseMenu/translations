@@ -1,1 +1,15 @@
-{}
+{
+    "language-native": "Nederlands",
+    "language-fallback": "nl_NL",
+    "common.create": "Maak",
+    "common.cancel": "Annuleer",
+    "common.warning": "Waarschuwing",
+    "common.error": "Foutmelding",
+    "common.info": "Info",
+    "common.ok": "OK",
+    "common.yes": "Ja",
+    "common.no": "Nee",
+    "common.new": "Nieuw",
+    "language-name": "Nederlands",
+    "language-charset": "default"
+}
