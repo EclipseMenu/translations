@@ -301,5 +301,22 @@
     "level.accuratepercentage.show_minutes": "Timer Formatado",
     "level.allpassable": "Tudo Passável",
     "level.allpassable.desc": "Te deixa passar por blocos que normalmente são sólidos.\n(Por Kingminer7)",
-    "level.alwaysshowcoins": "Sempre Mostrar Moedas"
+    "level.alwaysshowcoins": "Sempre Mostrar Moedas",
+    "level.alwaysshowcoins.desc": "Sempre mostra a versão não coletada das moedas.",
+    "level.autoldm": "LDM Automático",
+    "level.autoldm.desc": "Automaticamente ativa o LDM quando entrar em um nível.",
+    "level.autopickupcoins": "Coletar Moedas Automaticamente",
+    "level.autopickupcoins.desc": "Automaticamente coleta todas as moedas em um nível.",
+    "level.autopracticemode": "Modo de Prática Automático",
+    "level.autopracticemode.desc": "Automaticamente ativa o modo de prática quando entrar em um nível. (Por Uproxide)",
+    "level.autosongdownload": "Download da Música Automático",
+    "level.autosongdownload.desc": "Baixar automaticamente a(s) música(s) e os efeitos sonoros quando ver um nível online. (Por Uproxide)",
+    "level.checkpointdelay": "Atraso do Checkpoint",
+    "level.checkpointdelay.desc": "Tira um frame de atraso quando colocar checkpoints.",
+    "level.forceplatformer": "Forçar Modo Plataforma",
+    "level.forceplatformer.desc": "Força o modo plataforma quando jogar qualquer nível.",
+    "level.freeze_attempts": "Congelar Tentativas",
+    "level.freeze_attempts.desc": "Congela o número de tentativas em um nível.",
+    "level.hidelevelcomplete": "Esconder os Efeitos Visuais do Nível Completo",
+    "level.hidelevelcomplete.desc": "Esconde a explosão, partículas e os fogos quando completar um nível. (Por RayDeeUx/Erymanthus)"
 }
