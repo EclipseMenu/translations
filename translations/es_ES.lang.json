@@ -7,7 +7,7 @@
     "common.warning": "Advertencia",
     "common.info": "Información",
     "common.ok": "Aceptar",
-    "common.yes": "Si",
+    "common.yes": "Sí",
     "common.new": "Nuevo",
     "common.save": "Guardar",
     "common.load": "Cargar",
@@ -19,7 +19,7 @@
     "tab.labels": "Etiquetas",
     "tab.level": "Nivel",
     "tab.player": "Jugador",
-    "tab.recorder": "Grabador interno",
+    "tab.recorder": "Grabador Interno",
     "tab.shortcuts": "Accesos directos",
     "bot.new-replay": "Nueva repetición",
     "bot.new-replay.msg": "Introduzca un nombre para la nueva repetición:",
@@ -508,5 +508,6 @@
     "menu.animationEasingMode.0": "Facilidad en",
     "menu.animationEasingMode.1": "Facilidad Fuera",
     "menu.animationEasingMode.2": "Facilidad En Fuera",
-    "player.customwavetrail": "Ruta de olas personalizada"
+    "player.customwavetrail": "Ruta de olas personalizada",
+    "player.nohidetrigger": "Deshabilitar Trigger de Escondite"
 }
