@@ -504,5 +504,9 @@
     "shortcuts.remove-checkpoint.desc": "Remueve el último punto de control colocado.",
     "shortcuts.inject-dll": "Inyectar DLL",
     "shortcuts.inject-dll.desc": "Elige un archivo DLL para inyectar.",
-    "shortcuts.save-folder": "Carpeta de Guardado"
+    "shortcuts.save-folder": "Carpeta de Guardado",
+    "menu.animationEasingMode.0": "Facilidad en",
+    "menu.animationEasingMode.1": "Facilidad Fuera",
+    "menu.animationEasingMode.2": "Facilidad En Fuera",
+    "player.customwavetrail": "Ruta de olas personalizada"
 }
