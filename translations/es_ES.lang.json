@@ -445,7 +445,7 @@
     "player.noclip.color": "Color del Tinte",
     "player.noclip.time": "Tiempo del Tinte",
     "player.framestepper": "Escalador de Cuadros",
-    "player.jumphack": "Jump Hack",
+    "player.jumphack": "Hack de saltos",
     "player.framestepper.step_key": "Tecla de Paso",
     "player.framestepper.hold": "Habilitar Sostén",
     "player.framestepper.hold_speed": "Velocidad de Sostén",
