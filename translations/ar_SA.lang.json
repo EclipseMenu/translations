@@ -466,7 +466,7 @@
     "player.showtrajectory.iterations": "التكرارات",
     "player.solidwavetrail": "أثر الواف الصلبة",
     "player.solidwavetrail.desc": "يجعل الواف اللاعب تتتبع لون صلب",
-    "recorder.finished": "اﻧﺘﻬﻰ اﻟﺘﺴﺠﻴﻞ!",
+    "recorder.finished": "اﻧﺘﻬﻰ اﻟﺘﺴﺠﻴﻞ! الوقت المستغرق: {0}",
     "recorder.open-folder": "إفتح مجلد",
     "recorder.start": "بدء التسجيل",
     "recorder.stop": "إيقاف التسجيل",
@@ -509,5 +509,16 @@
     "shortcuts.save-folder": "حفظ المجلد",
     "shortcuts.save-folder.desc": "افتح مجلد حفظ اللعبة.",
     "bypass.unlockpaths": "فتح المسارات",
-    "bypass.unlockpaths.desc": "يفتح كل مسارات القوة."
+    "bypass.unlockpaths.desc": "يفتح كل مسارات القوة.",
+    "shortcuts.devtools": "فتح أدوات المطور المفتوح",
+    "float-btn.title": "إعدادات الزر العائم",
+    "float-btn.max-opacity": "الحد الأقصى للتعتيم (مركّز)",
+    "float-btn.min-opacity": "الحد الأدنى من التعتيم (غير مركّز)",
+    "float-btn.show-in-level": "عرض بالمستوى",
+    "float-btn.show-in-editor": "إظهار في المحرر",
+    "float-btn.scale": "المقياس",
+    "labels.settings": "الخيارات",
+    "recorder.hide-preview": "إخفاء المعاينة",
+    "recorder.hide-preview.desc": "يجعل الشاشة فارغة أثناء العرض، مما قد يحسن الأداء.",
+    "shortcuts.devtools.desc": "فتح واجهة مستخدم تعديل أدوات المطورين."
 }
