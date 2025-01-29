@@ -469,7 +469,7 @@
     "player.showtrajectory.desc": "Muestra donde el jugador estará si cliquea/no cliquea.",
     "player.showtrajectory.iterations": "Iteraciones",
     "player.solidwavetrail": "Estela de Wave Sólida",
-    "recorder.finished": "¡Grabación terminada!",
+    "recorder.finished": "¡Grabación terminada! Tiempo empleado: {0}",
     "recorder.open-folder": "Abrir carpeta",
     "recorder.start": "Empezar Grabación",
     "recorder.stop": "Parar Grabación",
@@ -509,5 +509,16 @@
     "menu.animationEasingMode.1": "Facilidad Fuera",
     "menu.animationEasingMode.2": "Facilidad En Fuera",
     "player.customwavetrail": "Ruta de olas personalizada",
-    "player.nohidetrigger": "Deshabilitar Trigger de Escondite"
+    "player.nohidetrigger": "Deshabilitar Trigger de Escondite",
+    "recorder.hide-preview": "Esconder avance",
+    "labels.settings": "Opciones",
+    "float-btn.max-opacity": "Opacidad máxima (enfocado)",
+    "recorder.hide-preview.desc": "Hace la pantalla negra mientras se renderiza, lo que puede aumentar el rendimiento.",
+    "float-btn.title": "Configuraciones del botón flotante",
+    "float-btn.min-opacity": "Opacidad mínima (desenfocado)",
+    "float-btn.show-in-level": "Mostrar en nivel",
+    "float-btn.show-in-editor": "Mostrar en editor",
+    "float-btn.scale": "Escala",
+    "shortcuts.devtools": "Abrir DevTools",
+    "shortcuts.devtools.desc": "Abre la IU del mod DevTools."
 }
