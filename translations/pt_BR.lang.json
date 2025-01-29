@@ -318,5 +318,12 @@
     "level.freeze_attempts": "Congelar Tentativas",
     "level.freeze_attempts.desc": "Congela o número de tentativas em um nível.",
     "level.hidelevelcomplete": "Esconder os Efeitos Visuais do Nível Completo",
-    "level.hidelevelcomplete.desc": "Esconde a explosão, partículas e os fogos quando completar um nível. (Por RayDeeUx/Erymanthus)"
+    "level.hidelevelcomplete.desc": "Esconde a explosão, partículas e os fogos quando completar um nível. (Por RayDeeUx/Erymanthus)",
+    "labels.settings": "Opções",
+    "float-btn.max-opacity": "Opacidade Máxima (focado)",
+    "float-btn.title": "Configurações do Botão Flutuante",
+    "float-btn.min-opacity": "Opacidade Mínima (desfocado)",
+    "float-btn.show-in-level": "Mostrar no Nível",
+    "float-btn.show-in-editor": "Mostrar no Editor",
+    "float-btn.scale": "Tamanho"
 }
