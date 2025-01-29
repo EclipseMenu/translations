@@ -61,5 +61,8 @@
     "global.discordrpc.menus": "Menüs",
     "global.discordrpc.menu.details": "Menüdetails",
     "global.discordrpc.menu.state": "Menüstatus",
-    "global.discordrpc.menu.large-image": "Großes Menübild"
+    "global.discordrpc.menu.large-image": "Großes Menübild",
+    "bypass.charfilter.desc": "Ermöglicht es Ihnen, den Zeichenfilter in jedem Textfeld zu umgehen.",
+    "bypass.charlimit": "Zeichenbegrenzungs-Umgehung",
+    "bypass.charlimit.desc": "Ermöglicht es Ihnen, die Zeichenbegrenzung jedes Textfelds zu umgehen."
 }

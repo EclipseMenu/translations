@@ -507,5 +507,7 @@
     "shortcuts.inject-dll": "حقن DLL",
     "shortcuts.inject-dll.desc": "اختر ملف DLL للحقن.",
     "shortcuts.save-folder": "حفظ المجلد",
-    "shortcuts.save-folder.desc": "افتح مجلد حفظ اللعبة."
+    "shortcuts.save-folder.desc": "افتح مجلد حفظ اللعبة.",
+    "bypass.unlockpaths": "فتح المسارات",
+    "bypass.unlockpaths.desc": "يفتح كل مسارات القوة."
 }

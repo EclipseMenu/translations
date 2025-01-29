@@ -507,5 +507,7 @@
     "shortcuts.inject-dll": "Inject DLL",
     "shortcuts.inject-dll.desc": "Chọn một tệp DLL để inject.",
     "shortcuts.save-folder": "Thư Mục Lưu Trữ",
-    "shortcuts.save-folder.desc": "Mở thư mục lưu trữ dữ liệu game."
+    "shortcuts.save-folder.desc": "Mở thư mục lưu trữ dữ liệu game.",
+    "bypass.unlockpaths": "Mở Khoá Các Path",
+    "bypass.unlockpaths.desc": "Mở khoá tất cả các Path of Power."
 }
