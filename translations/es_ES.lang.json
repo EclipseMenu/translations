@@ -1,7 +1,7 @@
 {
     "language-name": "Spanish",
     "language-native": "Español",
-    "language-fallback": "es",
+    "language-fallback": "en_US",
     "common.create": "Crear",
     "common.cancel": "Cancelar",
     "common.warning": "Advertencia",
@@ -306,7 +306,7 @@
     "common.error": "Error",
     "bypass.unlockpaths.desc": "Desbloquea todos los caminos del poder.",
     "global.fpsbypass": "FPS Bypass",
-    "language-charset": "Por defecto",
+    "language-charset": "default",
     "common.no": "No",
     "tab.bot": "Bot",
     "tab.global": "Global",
