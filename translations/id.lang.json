@@ -23,7 +23,7 @@
     "language-name": "Indonesian",
     "language-charset": "default",
     "language-fallback": "en_US",
-    "tab.keybinds": "Tombol Pintas (Keybinds)",
+    "tab.keybinds": "Tombol Pengikat (Keybinds)",
     "bot.loaded": "Replay dimuat",
     "bot.loaded.msg": "Replay {0} dimuat dengan {1} input",
     "bot.load-fail": "Gagal untuk memuat replay: {}",
@@ -503,5 +503,6 @@
     "shortcuts.remove-checkpoint": "Hapus Checkpoint",
     "shortcuts.save-folder": "Simpan Folder",
     "shortcuts.devtools": "Buka DevTools",
-    "shortcuts.devtools.desc": "Membuka UI mod DevTools."
+    "shortcuts.devtools.desc": "Membuka UI mod DevTools.",
+    "keybinds.hint": "Click-Kanan tombol pada Menu untuk ditambahkan ke \"Pengikat Tombol (Keybinds)\"!"
 }
