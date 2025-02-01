@@ -518,5 +518,7 @@
     "labels.preview": "Önizleme",
     "level.checkpointdelay": "Checkpoint Gecikmesi",
     "level.checkpointdelay.desc": "Checkpointleri koyarken oluşan bir kare gecikmesini kaldırır.",
-    "recorder.hide-preview.desc": "Renderlarken ekranı karartır, bu da performansı artırabilir."
+    "recorder.hide-preview.desc": "Renderlarken ekranı karartır, bu da performansı artırabilir.",
+    "menu.animationEasingMode.2": "Hızlanarak Yavaşla",
+    "recorder.hide-preview": "Önizlemeyi Gizle"
 }
