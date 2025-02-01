@@ -466,7 +466,7 @@
     "player.showtrajectory.iterations": "Итерации",
     "player.solidwavetrail": "Однотонный след волны",
     "player.solidwavetrail.desc": "Делает цвет следа волны однотонным.",
-    "recorder.finished": "Запись завершена!",
+    "recorder.finished": "Запись завершена! Потрачено времени: {0}",
     "recorder.open-folder": "Открыть папку",
     "recorder.start": "Начать запись",
     "recorder.stop": "Остановить запись",
@@ -509,5 +509,16 @@
     "shortcuts.save-folder": "Папка с сохранением",
     "shortcuts.save-folder.desc": "Открывает папку с сохранением игры.",
     "bypass.unlockpaths": "Открыть пути",
-    "bypass.unlockpaths.desc": "Открывает все пути силы."
+    "bypass.unlockpaths.desc": "Открывает все пути силы.",
+    "labels.settings": "Параметры",
+    "float-btn.show-in-editor": "Показывать в редакторе",
+    "float-btn.title": "Настройки плавающей кнопки",
+    "recorder.hide-preview.desc": "Делает экран пустым при рендеринге, что может улучшить производительность.",
+    "float-btn.max-opacity": "Макс. непрозрачность (при фокусе)",
+    "float-btn.min-opacity": "Мин. непрозрачность",
+    "float-btn.show-in-level": "Показывать на уровне",
+    "float-btn.scale": "Размер",
+    "recorder.hide-preview": "Скрыть предпросмотр",
+    "shortcuts.devtools.desc": "Открывает интерфейс мода DevTools.",
+    "shortcuts.devtools": "Открыть DevTools"
 }
