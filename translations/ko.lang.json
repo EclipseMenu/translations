@@ -509,5 +509,7 @@
     "shortcuts.save-folder.desc": "게임 저장 폴더 열기",
     "player.autoclick.desc": "레벨을 플레이할 때 주기적으로 클릭합니다. 레벨 편집기와 실제 레벨 모두에 적용됩니다.",
     "player.muterewardssfx.desc": "플레이어가 죽으면 모든 보상 SFX(오브, 다이아몬드, 열쇠)를 비활성화합니다. (RayDeeUx 제작)",
-    "player.framestepper.desc": "프레임 사이사이를 전환할 수 있게 해줍니다."
+    "player.framestepper.desc": "프레임 사이사이를 전환할 수 있게 해줍니다.",
+    "global.show-taps": "클릭 표시",
+    "global.show-taps.desc": "스크린을 터치한 곳에 원으로 표시합니다."
 }
