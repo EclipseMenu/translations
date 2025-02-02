@@ -25,7 +25,7 @@
     "recorder.start": "녹화 시작",
     "language-name": "Korean",
     "language-native": "Korean",
-    "language-charset": "default",
+    "language-charset": "korean",
     "language-fallback": "ko_KR",
     "common.create": "생성",
     "common.cancel": "취소",
