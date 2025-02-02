@@ -177,6 +177,8 @@
     "global.transitionspeed.desc": "Changes the speed of transitions between menus.",
     "global.transparentlists": "Transparent Lists",
     "global.transparentlists.desc": "Makes list backgrounds transparent.",
+	"global.show-taps": "Show Taps",
+	"global.show-taps.desc": "Shows a circle to indicate where you tapped on the screen.",
     "interface.theme": "Theme",
     "interface.ui-scale": "UI Scale",
     "interface.font": "Font",
@@ -520,5 +522,9 @@
     "shortcuts.save-folder": "Save Folder",
     "shortcuts.save-folder.desc": "Open the game's save folder.",
     "shortcuts.devtools": "Open DevTools",
-    "shortcuts.devtools.desc": "Opens the DevTools mod UI."
+    "shortcuts.devtools.desc": "Opens the DevTools mod UI.",
+	"shortcuts.reset-bg-volume": "Reset BG Volume",
+    "shortcuts.reset-bg-volume.desc": "Resets the Music Volume to 100%",
+	"shortcuts.reset-sfx-volume": "Reset SFX Volume",
+    "shortcuts.reset-sfx-volume.desc": "Resets the SFX Volume to 100%"
 }
