@@ -64,5 +64,7 @@
     "global.discordrpc.menu.large-image": "Großes Menübild",
     "bypass.charfilter.desc": "Ermöglicht es Ihnen, den Zeichenfilter in jedem Textfeld zu umgehen.",
     "bypass.charlimit": "Zeichenbegrenzungs-Umgehung",
-    "bypass.charlimit.desc": "Ermöglicht es Ihnen, die Zeichenbegrenzung jedes Textfelds zu umgehen."
+    "bypass.charlimit.desc": "Ermöglicht es Ihnen, die Zeichenbegrenzung jedes Textfelds zu umgehen.",
+    "bypass.commenthistory": "Umgehung des Kommentarverlaufs",
+    "bypass.commenthistory.desc": "Ermöglicht es Ihnen, den Kommentarverlauf eines Benutzers zu sehen. (Erstellt von Uproxide)"
 }
