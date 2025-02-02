@@ -466,7 +466,7 @@
     "player.showtrajectory.iterations": "Số Lần Kiểm Tra",
     "player.solidwavetrail": "Wave Trail Đặc",
     "player.solidwavetrail.desc": "Biến wave trail của người chơi thành một màu đặc.",
-    "recorder.finished": "Đã quay xong!",
+    "recorder.finished": "Đã quay xong! Thời gian: {0}",
     "recorder.open-folder": "Mở thư mục",
     "recorder.start": "Bắt Đầu Quay",
     "recorder.stop": "Dừng Quay",
@@ -509,5 +509,16 @@
     "shortcuts.save-folder": "Thư Mục Lưu Trữ",
     "shortcuts.save-folder.desc": "Mở thư mục lưu trữ dữ liệu game.",
     "bypass.unlockpaths": "Mở Khoá Các Path",
-    "bypass.unlockpaths.desc": "Mở khoá tất cả các Path of Power."
+    "bypass.unlockpaths.desc": "Mở khoá tất cả các Path of Power.",
+    "float-btn.scale": "Kích Thước",
+    "float-btn.show-in-level": "Hiển Thị trong Level",
+    "labels.settings": "Cài Đặt",
+    "recorder.hide-preview.desc": "Hiện màn hình trống khi đang render, giúp cải thiện hiệu suất.",
+    "float-btn.title": "Cài Đặt Nút Nổi",
+    "float-btn.show-in-editor": "Hiển Thị trong Editor",
+    "float-btn.min-opacity": "Độ Mờ Tối Thiểu (Không Focus)",
+    "float-btn.max-opacity": "Độ Mờ Tối Đa (Focus)",
+    "recorder.hide-preview": "Ẩn Preview",
+    "shortcuts.devtools": "Mở DevTools",
+    "shortcuts.devtools.desc": "Mở giao diện mod DevTools."
 }
