@@ -520,5 +520,19 @@
     "float-btn.scale": "Размер",
     "recorder.hide-preview": "Скрыть предпросмотр",
     "shortcuts.devtools.desc": "Открывает интерфейс мода DevTools.",
-    "shortcuts.devtools": "Открыть DevTools"
+    "shortcuts.devtools": "Открыть DevTools",
+    "shortcuts.reset-sfx-volume": "Сбросить громкость звуков",
+    "level.confirmfullreset.desc": "Если Вы находитесь на плат. уровне, будет спрашивать Вас, точно ли Вы хотите перезагрузить уровень с самого начала.",
+    "level.confirmrestart.desc": "Спрашивает Вас, точно ли Вы хотите перезагрузить уровень.",
+    "level.confirmrestart": "Подтверждать перезапуск",
+    "level.confirmpractice.desc": "Спрашивает Вас, точно ли Вы хотите включить режим практики.",
+    "global.show-taps": "Показывать нажатия",
+    "global.show-taps.desc": "Показывает круг в месте нажатия на экран.",
+    "level.confirmfullreset": "Подтверждать полный перезапуск",
+    "level.confirmpractice": "Подтверждать режим практики",
+    "level.confirmpractice.confirmexitpractice": "Подтверждать выход",
+    "level.confirmpractice.confirmexitpractice.desc": "Спрашивает Вас, точно ли Вы хотите выйти из режима практики.",
+    "shortcuts.reset-bg-volume": "Сбросить громкость музыки",
+    "shortcuts.reset-bg-volume.desc": "Сбрасывает громкость музыки до 100%",
+    "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%"
 }
