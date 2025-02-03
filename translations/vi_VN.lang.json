@@ -520,5 +520,19 @@
     "float-btn.max-opacity": "Độ Mờ Tối Đa (Focus)",
     "recorder.hide-preview": "Ẩn Preview",
     "shortcuts.devtools": "Mở DevTools",
-    "shortcuts.devtools.desc": "Mở giao diện mod DevTools."
+    "shortcuts.devtools.desc": "Mở giao diện mod DevTools.",
+    "level.confirmfullreset.desc": "Xác nhận trước khi chơi lại từ đầu trong level platformer.",
+    "level.confirmpractice.confirmexitpractice.desc": "Xác nhận trước khi bạn thoát chế độ practice.",
+    "level.confirmrestart": "Xác Nhận Chơi Lại",
+    "level.confirmpractice": "Xác Nhận Chế Độ Practice",
+    "global.show-taps": "Hiện Các Cử Chỉ Nhấn",
+    "global.show-taps.desc": "Hiển thị một vòng tròn để biểu thị nơi bạn nhấn trên màn hình.",
+    "level.confirmfullreset": "Xác Nhận Chơi Lại Từ Đầu",
+    "level.confirmrestart.desc": "Xác nhận trước khi bạn chơi lại level.",
+    "level.confirmpractice.confirmexitpractice": "Xác Nhận Thoát",
+    "level.confirmpractice.desc": "Xác nhận trước khi bạn bắt đầu trong chế độ practice.",
+    "shortcuts.reset-bg-volume": "Đặt Lại Âm Lượng Nhạc",
+    "shortcuts.reset-bg-volume.desc": "Đặt lại âm lượng nhạc về 100%.",
+    "shortcuts.reset-sfx-volume": "Đặt Lại Âm Lượng Hiệu Ứng Âm Thanh",
+    "shortcuts.reset-sfx-volume.desc": "Đặt lại âm lượng hiệu ứng âm thanh về 100%."
 }
