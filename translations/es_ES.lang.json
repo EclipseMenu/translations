@@ -273,7 +273,7 @@
     "level.autosongdownload.desc": "Descarga automáticamente canciones y archivos SFX al ver un nivel en línea. (Creado por Uproxide)",
     "level.forceplatformer": "Forzar Plataforma",
     "level.forceplatformer.desc": "Fuerza el modo de plataforma cuando se reproduce un nivel.",
-    "level.freeze_attempts": "Congelar el contador de intentos",
+    "level.freeze_attempts": "Congelar Intentos",
     "level.freeze_attempts.desc": "Congela el número de intentos en un nivel.",
     "level.hidelevelcomplete": "Ocultar nivel completo VFX",
     "level.hidelevelcomplete.desc": "Oculta la explosión, los fuegos artificiales y las partículas que se ven al completar un nivel. (Creado por RayDeeUx)",
@@ -343,7 +343,7 @@
     "level.instantmirror": "Espejo instantáneo",
     "level.instantmirror.desc": "Elimina la transición del portal espejo.",
     "level.mutelevelsfx": "Silenciar los efectos de sonido del nivel",
-    "level.pauseduringcomplete": "Pausa Durante La Finalización Del Nivel",
+    "level.pauseduringcomplete": "Pausa Durante La Finalización",
     "level.legacyreversephysics": "Volver a las antiguas físicas",
     "level.noparticles": "Quita las partículas",
     "level.pausecount.desc": "Muestra una cuenta regresiva cuando se despausa el juego.",
@@ -532,7 +532,7 @@
     "level.confirmpractice": "Confirmar Modo Práctica",
     "level.confirmpractice.desc": "Le avisa antes de comenzar en el modo práctica.",
     "level.confirmfullreset.desc": "Si estás en un nivel plataforma, este te avisará antes de reiniciar desde el principio.",
-    "shortcuts.reset-sfx-volume.desc": "Restablece el volumen de SFX a 100%",
-    "shortcuts.reset-sfx-volume": "Restablecer el volumen SFX",
+    "shortcuts.reset-sfx-volume.desc": "Restablece el volumen de SFX al 100%",
+    "shortcuts.reset-sfx-volume": "Restablecer el volumen de SFX",
     "shortcuts.reset-bg-volume": "Restablecer el volumen de BG"
 }
