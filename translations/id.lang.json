@@ -520,5 +520,19 @@
     "shortcuts.toggle-practice": "Aktifkan/Nonaktifkan Mode Practice",
     "shortcuts.inject-dll": "Masukkan DLL",
     "shortcuts.inject-dll.desc": "Pilih file DLL yang ingin dimasukkan.",
-    "shortcuts.save-folder.desc": "Buka folder penyimpanan game."
+    "shortcuts.save-folder.desc": "Buka folder penyimpanan game.",
+    "level.confirmfullreset.desc": "Jika kamu di dalam level platformer, ini akan meminta kamu kamu untuk mengkonfirmasi sebelum me-restart dari awal.",
+    "level.confirmrestart.desc": "Meminta kamu untuk mengkonfirmasi sebelum me-restart level.",
+    "level.confirmrestart": "Konfirmasi Restart",
+    "level.confirmfullreset": "Konfirmasi Full Restart",
+    "level.confirmpractice": "Konfirmasi Mode Practice",
+    "level.confirmpractice.desc": "Meminta kamu untuk mengkonfirmasi sebelum memulai mode practice.",
+    "level.confirmpractice.confirmexitpractice": "Konfirmasi Exit Practice",
+    "level.confirmpractice.confirmexitpractice.desc": "Meminta kamu untuk mengkonfirmasi sebelum keluar dari mode practice.",
+    "global.show-taps": "Tampilkan Tap",
+    "global.show-taps.desc": "Menampilkan sebuah lingkaran untuk mengindikasi dimana kamu meng-tap layar.",
+    "shortcuts.reset-bg-volume.desc": "Mereset volume musik ke 0%",
+    "shortcuts.reset-sfx-volume": "Reset Volume SFX",
+    "shortcuts.reset-sfx-volume.desc": "Mereset volume SFX ke 100%",
+    "shortcuts.reset-bg-volume": "Reset Volume BG"
 }
