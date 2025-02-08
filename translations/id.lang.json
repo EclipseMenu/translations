@@ -534,5 +534,7 @@
     "shortcuts.reset-bg-volume.desc": "Mereset volume musik ke 0%",
     "shortcuts.reset-sfx-volume": "Reset Volume SFX",
     "shortcuts.reset-sfx-volume.desc": "Mereset volume SFX ke 100%",
-    "shortcuts.reset-bg-volume": "Reset Volume BG"
+    "shortcuts.reset-bg-volume": "Reset Volume BG",
+    "bypass.fastchests.desc": "Membuat animasi pembukaan peti menjadi hampir instan.",
+    "bypass.fastchests": "Pembukaan Peti Cepat"
 }
