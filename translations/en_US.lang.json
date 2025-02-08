@@ -78,6 +78,8 @@
     "bypass.unlockvaults.desc": "Unlock all vaults and secrets in the game.",
     "bypass.copybypass": "Level Copy Bypass",
     "bypass.copybypass.desc": "Allows you to copy any level.",
+    "bypass.fastchests": "Quick Chests",
+    "bypass.fastchests.desc": "Makes chest's opening animation almost instant.",
     "creator.customobjectbypass": "Custom Object Bypass",
     "creator.customobjectbypass.desc": "Allows you to go beyond the 1000 object limit for custom objects.",
     "creator.defaultsongbypass": "Default Song Bypass",
