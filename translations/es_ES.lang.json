@@ -534,5 +534,7 @@
     "level.confirmfullreset.desc": "Si estás en un nivel plataforma, este te avisará antes de reiniciar desde el principio.",
     "shortcuts.reset-sfx-volume.desc": "Restablece el volumen de SFX al 100%",
     "shortcuts.reset-sfx-volume": "Restablecer el volumen de SFX",
-    "shortcuts.reset-bg-volume": "Restablecer el volumen de BG"
+    "shortcuts.reset-bg-volume": "Restablecer el volumen de BG",
+    "bypass.fastchests": "Cofres Rápidos",
+    "bypass.fastchests.desc": "Hace que la animación de un cofre abriendose sea casi instantánea."
 }
