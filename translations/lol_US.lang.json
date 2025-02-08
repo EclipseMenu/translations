@@ -534,5 +534,7 @@
     "shortcuts.uncomplete-level.msg": "r u sure u wanna reset progres ov \"{}\"?\nu cant go bacc.",
     "shortcuts.uncomplete-level.desc": "clears ur progres from lvl.",
     "shortcuts.uncomplete-level.error": "u haz 2 open a lvl 1st!",
-    "shortcuts.restart-level.desc": "restars teh current lvl."
+    "shortcuts.restart-level.desc": "restars teh current lvl.",
+    "bypass.fastchests": "fast chestz",
+    "bypass.fastchests.desc": "u can open chestz very faaast."
 }
