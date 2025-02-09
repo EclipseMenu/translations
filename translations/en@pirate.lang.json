@@ -2,7 +2,7 @@
     "language-name": "Pirate",
     "language-native": "Pirate",
     "language-charset": "default",
-    "language-fallback": "en_US",
+    "language-fallback": "en_PIRATE",
     "common.create": "Forge",
     "common.cancel": "Abandon Ship",
     "common.ok": "Aye",
