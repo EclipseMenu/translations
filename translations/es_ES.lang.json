@@ -527,7 +527,7 @@
     "level.confirmpractice.confirmexitpractice.desc": "Te avisa antes de salir del modo practica.",
     "shortcuts.reset-bg-volume.desc": "Restablece el volumen de la música al 100%",
     "level.confirmrestart": "Confirmar Reinicio",
-    "level.confirmrestart.desc": "Te avisa antes de reiniciar el nivel.",
+    "level.confirmrestart.desc": "Te pregunta antes de reiniciar el nivel.",
     "level.confirmfullreset": "Confirmar Reinicio Completo",
     "level.confirmpractice": "Confirmar Modo Práctica",
     "level.confirmpractice.desc": "Te avisa antes de comenzar en el modo práctica.",
