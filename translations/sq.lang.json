@@ -35,5 +35,15 @@
     "recorder.preset.cpu": "CPU",
     "player.noclip.p1": "Lojtari 1",
     "player.muterewardssfx.desc": "Çaktivizon të gjitha zhurmat e shpërblimeve (rruzullat, diamantet, çelësat) kur lojtari vdes. (Krijuar nga RayDeeUx)",
-    "bypass.unlockmainlevels.desc": "Zhbllokon të gjitha nivelet kryesore në lojë."
+    "bypass.unlockmainlevels.desc": "Zhbllokon të gjitha nivelet kryesore në lojë.",
+    "global.discordrpc": "Discord RPC",
+    "global.audiospeed": "Shpejtësia e Zërit",
+    "global.audiospeed.desc": "Ndryshon shpejtësinë e zërit.",
+    "global.discordrpc.buttons.1": "Butoni 1",
+    "global.discordrpc.buttons.2": "Butoni 2",
+    "global.discordrpc.buttons.url": "URL",
+    "global.discordrpc.buttons": "Butonat",
+    "global.discordrpc.buttons.text": "Tekst",
+    "interface.search": "Kërko",
+    "interface.language": "Gjuha"
 }
