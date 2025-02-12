@@ -520,5 +520,11 @@
     "level.checkpointdelay.desc": "Checkpointleri koyarken oluşan bir kare gecikmesini kaldırır.",
     "recorder.hide-preview.desc": "Renderlarken ekranı karartır, bu da performansı artırabilir.",
     "menu.animationEasingMode.2": "Hızlanarak Yavaşla",
-    "recorder.hide-preview": "Önizlemeyi Gizle"
+    "recorder.hide-preview": "Önizlemeyi Gizle",
+    "bypass.fastchests": "Hızlı Sandıklar",
+    "bypass.fastchests.desc": "Sandığın açılma animasyonunu neredeyse anında yapar.",
+    "bot.ignore-inputs": "Girişleri Yoksay",
+    "bot.ignore-inputs.desc": "Makro oynatırken yaptığınız girişlerin kaydolmasını engeller.",
+    "global.show-taps": "Dokunmaları Göster",
+    "global.show-taps.desc": "Ekran da nereye dokunduğunuzu göstermek için bir daire gösterir."
 }
