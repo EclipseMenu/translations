@@ -536,5 +536,15 @@
     "shortcuts.reset-sfx-volume.desc": "Mereset volume SFX ke 100%",
     "shortcuts.reset-bg-volume": "Reset Volume BG",
     "bypass.fastchests.desc": "Membuat animasi pembukaan peti menjadi hampir instan.",
-    "bypass.fastchests": "Pembukaan Peti Cepat"
+    "bypass.fastchests": "Pembukaan Peti Cepat",
+    "player.ballrotation": "Bug Rotasi Ball",
+    "player.ballrotation.desc": "Mengembalikan bug rotasi saat berganti gamemode dari ball ke gamemode lainnya.",
+    "global.show-taps.fill": "Isi",
+    "global.show-taps.scale": "Skala Tap",
+    "global.show-taps.stroke": "Stroke Outline",
+    "global.show-taps.opacity": "Opasitas Tap",
+    "global.show-taps.color": "Warna Tap",
+    "global.show-taps.fill.desc": "Menampilkan lingkaran yang diisi alih-alih outline lingkaran.",
+    "bot.ignore-inputs": "Abaikan Input",
+    "bot.ignore-inputs.desc": "Mencegah input untuk teregister saat bermain."
 }
