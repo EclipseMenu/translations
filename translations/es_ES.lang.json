@@ -536,5 +536,15 @@
     "shortcuts.reset-sfx-volume": "Restablecer el volumen de SFX",
     "shortcuts.reset-bg-volume": "Restablecer el volumen de BG",
     "bypass.fastchests": "Cofres Rápidos",
-    "bypass.fastchests.desc": "Hace que la animación de un cofre abriendose sea casi instantánea."
+    "bypass.fastchests.desc": "Hace que la animación de un cofre abriendose sea casi instantánea.",
+    "bot.ignore-inputs": "Ignorar Entradas",
+    "global.show-taps.fill": "Llenar",
+    "global.show-taps.fill.desc": "Dibuja un circulo lleno en vez de un circulo delineado.",
+    "global.show-taps.scale": "Escalar al Tocar",
+    "global.show-taps.stroke": "Trazo de Contorno",
+    "global.show-taps.opacity": "Opacidad del Toque",
+    "global.show-taps.color": "Color del Toque",
+    "player.ballrotation": "Fallo de rotación de la bola",
+    "player.ballrotation.desc": "Restaura el error de rotación al cambiar el modo de juego de la bola a otro modo de juego.",
+    "bot.ignore-inputs.desc": "Evita que tus entradas se registren al reproducir."
 }
