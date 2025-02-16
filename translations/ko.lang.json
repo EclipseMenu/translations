@@ -534,5 +534,17 @@
     "shortcuts.reset-bg-volume.desc": "음악 볼륨을 100%로 재설정합니다.",
     "shortcuts.reset-sfx-volume": "SFX 볼륨 재설정",
     "shortcuts.reset-sfx-volume.desc": "SFX 볼륨을 100%로 재설정합니다.",
-    "float-btn.scale": "크기"
+    "float-btn.scale": "크기",
+    "global.show-taps.scale": "탭 스케일",
+    "global.show-taps.stroke": "윤곽선 스트로크",
+    "global.show-taps.opacity": "탭 불투명도",
+    "global.show-taps.color": "탭 색상",
+    "player.ballrotation": "공 회전 버그",
+    "global.show-taps.fill": "채우기",
+    "global.show-taps.fill.desc": "윤곽선이 있는 원 대신 채워진 원을 그립니다.",
+    "player.ballrotation.desc": "볼 모드에서 다른 모드로 변경할 때 회전 버그를 복원합니다.",
+    "bypass.fastchests": "빠른 상자",
+    "bypass.fastchests.desc": "チェストの開くアニメーションをほぼ瞬時にします。",
+    "bot.ignore-inputs": "입력 무시",
+    "bot.ignore-inputs.desc": "다시 재생할 때 입력이 등록되지 않도록 합니다."
 }
