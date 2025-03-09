@@ -546,5 +546,11 @@
     "shortcuts.reset-bg-volume": "Reset BG Volume",
     "shortcuts.reset-bg-volume.desc": "Resets the Music Volume to 100%",
     "shortcuts.reset-sfx-volume": "Reset SFX Volume",
-    "shortcuts.reset-sfx-volume.desc": "Resets the SFX Volume to 100%"
+    "shortcuts.reset-sfx-volume.desc": "Resets the SFX Volume to 100%",
+    "shortcuts.recount-secret-coins": "Recount Secret Coins",
+    "shortcuts.recount-secret-coins.desc": "\"Fixes\" your secret coin count by recounting based on the main levels, map packs, and secrets.",
+    "shortcuts.recount-secret-coins.title": "Fix Secret Coins?",
+    "shortcuts.recount-secret-coins.nochange": "There was no change in the amount of secret coins you have!",
+    "shortcuts.recount-secret-coins.error": "You have more secret coins ({}) than the recounted amount ({})!",
+    "shortcuts.recount-secret-coins.msg": "You have less secret coins ({}) than the recounted amount ({})! Would you like to change that?\nYou can't undo this process."
 }
