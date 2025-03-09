@@ -546,5 +546,11 @@
     "global.show-taps.color": "Color del Toque",
     "player.ballrotation": "Bug de rotación de la bola",
     "player.ballrotation.desc": "Restaura el error de rotación al cambiar el modo de juego de la bola a otro modo de juego.",
-    "bot.ignore-inputs.desc": "Evita que tus inputs se registren al reproducir."
+    "bot.ignore-inputs.desc": "Evita que tus inputs se registren al reproducir.",
+    "shortcuts.recount-secret-coins": "Recuento de monedas secretas",
+    "shortcuts.recount-secret-coins.title": "¿Arreglar las monedas secretas?",
+    "shortcuts.recount-secret-coins.nochange": "¡No hubo ningún cambio en la cantidad de monedas secretas que tienes!",
+    "shortcuts.recount-secret-coins.error": "¡Tienes más monedas secretas ({}) que la cantidad contada ({})!",
+    "shortcuts.recount-secret-coins.desc": "\"Arregla\" tu recuento de monedas secretas volviendo a contar en función de los niveles principales, map packs y secretos.",
+    "shortcuts.recount-secret-coins.msg": "¡Tienes menos monedas secretas ({}) que la cantidad contada ({})! ¿Quieres cambiar eso?\nNo puedes deshacer este proceso."
 }
