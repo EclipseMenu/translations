@@ -394,6 +394,7 @@
     "level.showhitboxes.editor": "Show in Editor",
     "level.showhitboxes.hideplayer": "Hide Player",
     "level.showhitboxes.ondeath": "Hitboxes On Death",
+    "level.showhitboxes.ondeath.player": "Only Show Death Object",
     "level.showhitboxes.customcolors": "Custom Colors",
     "level.showhitboxes.solid_color": "Solid Color",
     "level.showhitboxes.danger_color": "Danger Color",
