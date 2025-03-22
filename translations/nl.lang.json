@@ -49,5 +49,6 @@
     "bypass.charfilter.desc": "Maakt het mogelijk om het tekenfilter te omzeilen op elk tekstvak.",
     "bypass.charlimit": "Tekenlimiet omzeilen",
     "bypass.charfilter": "Tekenfilter omzeilen",
-    "bypass.allowlowvolume.desc": "Maakt het mogelijk om het volume lager dan 3% in te stellen."
+    "bypass.allowlowvolume.desc": "Maakt het mogelijk om het volume lager dan 3% in te stellen.",
+    "bot.ignore-inputs": "negeer invoer"
 }
