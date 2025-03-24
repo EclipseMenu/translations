@@ -552,5 +552,6 @@
     "shortcuts.recount-secret-coins.nochange": "¡No hubo ningún cambio en la cantidad de monedas secretas que tienes!",
     "shortcuts.recount-secret-coins.error": "¡Tienes más monedas secretas ({}) que la cantidad contada ({})!",
     "shortcuts.recount-secret-coins.desc": "\"Arregla\" tu recuento de monedas secretas volviendo a contar en función de los niveles principales, map packs y secretos.",
-    "shortcuts.recount-secret-coins.msg": "¡Tienes menos monedas secretas ({}) que la cantidad contada ({})! ¿Quieres cambiar eso?\nNo puedes deshacer este proceso."
+    "shortcuts.recount-secret-coins.msg": "¡Tienes menos monedas secretas ({}) que la cantidad contada ({})! ¿Quieres cambiar eso?\nNo puedes deshacer este proceso.",
+    "level.showhitboxes.ondeath.player": "Mostrar Solo Objeto de Muerte"
 }
