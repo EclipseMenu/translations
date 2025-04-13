@@ -553,5 +553,19 @@
     "shortcuts.recount-secret-coins.error": "¡Tienes más monedas secretas ({}) que la cantidad contada ({})!",
     "shortcuts.recount-secret-coins.desc": "\"Arregla\" tu recuento de monedas secretas volviendo a contar en función de los niveles principales, map packs y secretos.",
     "shortcuts.recount-secret-coins.msg": "¡Tienes menos monedas secretas ({}) que la cantidad contada ({})! ¿Quieres cambiar eso?\nNo puedes deshacer este proceso.",
-    "level.showhitboxes.ondeath.player": "Mostrar Solo Objeto de Muerte"
+    "level.showhitboxes.ondeath.player": "Mostrar Solo Objeto de Muerte",
+    "player.ballrotation.variation.desc": "Añade variación cuando la bola gira.",
+    "level.legacypulse.fps": "FPS",
+    "player.hideplayer.desc": "Hace el jugador invisible.",
+    "level.layoutmode": "Modo Layout",
+    "level.layoutmode.desc": "Elimina toda decoración asociada a un nivel.",
+    "level.legacypulse": "Pulso antiguo",
+    "level.legacypulse.desc": "Restablece el efecto del pulso de versiones anteriores.",
+    "level.legacypulse.force_fps": "Forzar FPS",
+    "level.legacypulse.force_fps.desc": "Habilitar FPS fijos para la simulación del antiguo pulso.",
+    "level.legacytrail": "Trail Antiguo",
+    "level.legacytrail.desc": "Restablece el efecto del trail de versiones anteriores.",
+    "level.legacytrail.max_points": "Puntos",
+    "player.ballrotation.variation": "Variación de Giro",
+    "player.hideplayer": "Ocultar Jugador"
 }
