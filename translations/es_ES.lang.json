@@ -567,5 +567,11 @@
     "level.legacytrail.desc": "Restablece el efecto del trail de versiones anteriores.",
     "level.legacytrail.max_points": "Puntos",
     "player.ballrotation.variation": "Variación de Giro",
-    "player.hideplayer": "Ocultar Jugador"
+    "player.hideplayer": "Ocultar Jugador",
+    "player.customwavetrail.outline": "Contorno de estela",
+    "player.customwavetrail.outline.color": "Color del contorno",
+    "player.customwavetrail.outline.stroke": "Tamaño del contorno",
+    "player.customwavetrail.outline.blur": "Cantidad de difuminado",
+    "player.forceghosttrail": "Forzar estela fantasma",
+    "player.forceghosttrail.desc": "Siempre muestra la estela fantasma del jugador."
 }
