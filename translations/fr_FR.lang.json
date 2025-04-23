@@ -534,5 +534,7 @@
     "level.confirmpractice.desc": "Te prévient avant que tu commences en practice mode.",
     "level.confirmpractice.confirmexitpractice": "Confirmer pour partir",
     "level.confirmpractice.confirmexitpractice.desc": "Te prévient avant que tu enlève le practice mode.",
-    "shortcuts.reset-sfx-volume": "Réinitialiser le volume des SFX"
+    "shortcuts.reset-sfx-volume": "Réinitialiser le volume des SFX",
+    "bot.ignore-inputs.desc": "Evite que vos clicks s'exécutent lors d'un replay.",
+    "bot.ignore-inputs": "Ignorer les clicks"
 }
