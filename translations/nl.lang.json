@@ -1,6 +1,6 @@
 {
     "language-native": "Nederlands",
-    "language-fallback": "nl_NL",
+    "language-fallback": "en_US",
     "common.create": "Maak",
     "common.cancel": "Annuleer",
     "common.warning": "Waarschuwing",
