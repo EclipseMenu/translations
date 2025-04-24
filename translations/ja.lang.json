@@ -5,7 +5,7 @@
     "language-native": "日本語",
     "bot.ignore-inputs.desc": "リプレイ時にあなたの入力が登録されないようにします。",
     "language-charset": "japanese",
-    "language-fallback": "ja_JP",
+    "language-fallback": "en_US",
     "common.create": "作成する",
     "common.cancel": "キャンセル",
     "common.error": "エラー",
