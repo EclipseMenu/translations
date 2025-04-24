@@ -26,7 +26,7 @@
     "language-name": "Korean",
     "language-native": "Korean",
     "language-charset": "korean",
-    "language-fallback": "ko_KR",
+    "language-fallback": "en_US",
     "common.create": "생성",
     "common.cancel": "취소",
     "common.warning": "경고",
