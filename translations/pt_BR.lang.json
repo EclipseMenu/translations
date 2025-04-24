@@ -393,5 +393,13 @@
     "level.randomseed": "Semente Aleatoria",
     "level.showhitboxes.player_color_rotated": "Cor do Jogador rotacionada",
     "level.showhitboxes.traillength": "Tamanho da (não achei palavra que ficaria bom como \"Trail\")",
-    "level.showhitboxes.fillalpha": "Alpha do Preencher"
+    "level.showhitboxes.fillalpha": "Alpha do Preencher",
+    "bypass.fastchests": "Baús Rapidos",
+    "bypass.fastchests.desc": "Faz com que a animação do baú seja quase instantânea.",
+    "global.show-taps.fill": "Preencher",
+    "level.showtriggers": "Mostrar Triggers",
+    "level.showtriggers.desc": "Mostra todos os triggers durante gameplay",
+    "global.show-taps.fill.desc": "Mostra Um Circulo Preenchido Ao Em Vez Da Linha De Um Circulo.",
+    "bot.ignore-inputs": "Ignorar Teclas",
+    "bot.ignore-inputs.desc": "Faz com que o jogo ignore seu teclado quando você esta assistindo um Replay."
 }

@@ -536,5 +536,15 @@
     "shortcuts.uncomplete-level.error": "u haz 2 open a lvl 1st!",
     "shortcuts.restart-level.desc": "restars teh current lvl.",
     "bypass.fastchests": "fast chestz",
-    "bypass.fastchests.desc": "u can open chestz very faaast."
+    "bypass.fastchests.desc": "u can open chestz very faaast.",
+    "global.show-taps.scale": "Tapz scalez",
+    "global.show-taps.stroke": "Outlinez strokz",
+    "global.show-taps.opacity": "Tapz opacitee",
+    "global.show-taps.color": "Tapz kolor",
+    "player.ballrotation": "Ball rotashun bugz",
+    "player.ballrotation.desc": "Restorz teh rotashun bugz wen changin gamemode frum ballz to anuther gamemode.",
+    "global.show-taps.fill.desc": "Drawz a fillz circlez insted of a outlinz circlez.",
+    "global.show-taps.fill": "Fillz",
+    "bot.ignore-inputs": "Ignorz Inpwtz",
+    "bot.ignore-inputs.desc": "Stops ur inpwtz frum bein registerd wen replayn."
 }
