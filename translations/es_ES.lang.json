@@ -88,7 +88,7 @@
     "creator.nocopymark": "No Marca (C)",
     "creator.nocopymark.desc": "Elimina la marca de copia al subir sus niveles.",
     "creator.resetpercentonsave": "Reiniciar porcentaje al guardar",
-    "creator.resetpercentonsave.desc": "Restablece el porcentaje de un nivel a 0% cuando se guarda/no se verifica.",
+    "creator.resetpercentonsave.desc": "Restablece el porcentaje de un nivel a 0% cuando se guarda/no se verifica. (Creado por TechStudent10)",
     "creator.sliderlimit": "Límite de Slider",
     "creator.sliderlimit.desc": "Elimina el límite mínimo / máximo de deslizadores.",
     "creator.smoothtrail": "Suavizado de estela en el editor",
