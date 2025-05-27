@@ -93,7 +93,7 @@
     "creator.nocopymark": "(C) İşaretini Kaldır",
     "creator.nocopymark.desc": "Seviyenizden kopya işaretini, yüklerken kaldırır.",
     "creator.resetpercentonsave": "Kaydedildiğinde Yüzdeyi Sıfırla",
-    "creator.resetpercentonsave.desc": "Bir seviyenin yüzdesini kaydedildiğinde/doğrulanmadığında %0'a değiştirir.",
+    "creator.resetpercentonsave.desc": "Bir seviyenin yüzdesini kaydedildiğinde/doğrulanmadığında %0'a değiştirir. (TechStudent10 tarafından oluşturuldu)",
     "creator.sliderlimit": "Kaydırıcı Sınırı",
     "creator.sliderlimit.desc": "Kaydırıcılardan min/maks sınırını kaldırır.",
     "creator.smoothtrail": "Akıcı Editör İzi",
