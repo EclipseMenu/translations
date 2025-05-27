@@ -93,7 +93,7 @@
     "creator.nocopymark": "Без позначки (C)",
     "creator.nocopymark.desc": "Видаляє позначку (C) з ваших рівнів під час їх завантаження.",
     "creator.resetpercentonsave": "Скинути відсоток при збереженні",
-    "creator.resetpercentonsave.desc": "Скидає відсоток рівня на 0% при збереженні/неверифікації.",
+    "creator.resetpercentonsave.desc": "Скидає відсоток рівня на 0% при збереженні/неверифікації. (Створено TechStudent10)",
     "creator.sliderlimit": "Ліміт повзунка",
     "creator.sliderlimit.desc": "Видаляє обмеження мін/макс на повзунках.",
     "creator.smoothtrail": "Плавний слід у редакторі",
