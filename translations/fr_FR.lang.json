@@ -89,7 +89,7 @@
     "creator.nocopymark": "Aucune marque (C)",
     "creator.nocopymark.desc": "Supprime la marque de copie de vos niveaux lors de la mise en ligne.",
     "creator.resetpercentonsave": "Réinitialiser le pourcentage lors de la sauvegarde",
-    "creator.resetpercentonsave.desc": "Réinitialise le pourcentage d'un niveau à 0% lorsqu'il est sauvegardé/non vérifié.",
+    "creator.resetpercentonsave.desc": "Réinitialise le pourcentage d'un niveau à 0% lorsqu'il est sauvegardé/non vérifié. (Créé par TechStudent10)",
     "creator.sliderlimit": "Limite du slider",
     "creator.sliderlimit.desc": "Supprime la limite min/max des sliders.",
     "creator.smoothtrail": "Traînée lisse dans l'éditeur",
