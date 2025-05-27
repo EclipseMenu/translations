@@ -210,7 +210,7 @@
     "global.safemode.freeze_jumps": "Bekukan Jumlah Lompatan",
     "interface.font-not-found": "Paket bahasa ini memerlukan font tambahan untuk diinstal.\nApakah kamu ingin mendownloadnya?",
     "labels.cheat-indicator.visible.desc": "Menampilkan indikator merah jika kamu mengaktifkan cheat apapun.",
-    "creator.resetpercentonsave.desc": "Mereset persentase level menjadi 0% saat disimpan/belum diverifikasi.",
+    "creator.resetpercentonsave.desc": "Mereset persentase level menjadi 0% saat disimpan/belum diverifikasi. (Dibuat oleh TechStudent10)",
     "global.discordrpc.time-mode.desc": "Menentukan bagaimana waktu ditampilkan di RPC.\nNonaktif: Waktu tidak ditampilkan.\nTotal waktu bermain: Menampilkan total waktu yang telah kamu habiskan dalam game.\nWaktu bermain level: Hanya menampilkan waktu yang telah kamu habiskan di level saat ini.\nWaktu bermain Total+Level: Menampilkan total waktu di menu dan waktu level di level.",
     "menu.animationEasingType.7": "Sirkular (Circular)",
     "global.compacteditorlevels": "Level Editor Ringkas",
