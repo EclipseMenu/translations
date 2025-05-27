@@ -93,7 +93,7 @@
     "creator.nocopymark": "Nenhuma Marca (C)",
     "creator.nocopymark.desc": "Tira a marca de copiar dos seus níveis durante upload.",
     "creator.resetpercentonsave": "Resetar Porcentagem ao salvar",
-    "creator.resetpercentonsave.desc": "Muda a porcentagem de um nível para 0% quando salvo/não verificado.",
+    "creator.resetpercentonsave.desc": "Muda a porcentagem de um nível para 0% quando salvo/não verificado. (Criado por TechStudent10)",
     "creator.sliderlimit": "Limite do Slider",
     "creator.sliderlimit.desc": "Tira o limite de minimo/maximo nos sliders.",
     "creator.smoothtrail": "Rastro do Editor Suave",
