@@ -182,7 +182,7 @@
     "creator.leveledit": "Edycja poziomu",
     "creator.nocopymark.desc": "Usuwa znak kopii z twoich poziomów podczas przesyłania.",
     "creator.resetpercentonsave": "Resetuj procent przy zapisywaniu",
-    "creator.resetpercentonsave.desc": "Resetuje procent poziomu do 0% po zapisaniu/niezweryfikowaniu.",
+    "creator.resetpercentonsave.desc": "Resetuje procent poziomu do 0% po zapisaniu/niezweryfikowaniu. (Stworzone przez TechStudent10)",
     "creator.sliderlimit": "Limit suwaka",
     "creator.sliderlimit.desc": "Usuwa limit minimalny/maksymalny na suwakach.",
     "creator.smoothtrail": "Płynny ślad w edytorze",
