@@ -70,7 +70,7 @@
     "creator.leveledit": "Επεξεργασία πιστας",
     "creator.nocopymark.desc": "Αφαιρεί το σημείωμα αντιγραφής από τις πίστες σου όταν τις ανεβάζεις.",
     "creator.nocopymark": "Όχι σημείωμα (C)",
-    "creator.resetpercentonsave.desc": "Επανεκκινεί το ποσοστό μιας πίστας πίσω στο 0% όταν αποθηκεύεται/δεν έχει επαληθευτεί.",
+    "creator.resetpercentonsave.desc": "Επανεκκινεί το ποσοστό μιας πίστας πίσω στο 0% όταν αποθηκεύεται/δεν έχει επαληθευτεί. (Κατασκευάστηκε από τον/την TechStudent10)",
     "creator.sliderlimit": "Όριο μπάρας",
     "creator.smoothtrail": "Λεία ουρά επεξεργαστή πιστών",
     "bypass.verifyhack": "Παραβίαση επαλήθευσης",
