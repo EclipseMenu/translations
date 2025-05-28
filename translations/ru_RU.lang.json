@@ -63,7 +63,7 @@
     "bypass.practicemusic": "Музыка в практике",
     "bypass.practicemusic.desc": "Позволяет использовать музыку из обычного режима в режиме практики.",
     "bypass.musiccustomizer": "Настраиваемая музыка",
-    "bypass.musiccustomizer.desc": "Позволяет выбрать любую музыку для меню и режима практики.",
+    "bypass.musiccustomizer.desc": "Позволяет использовать любую музыку для меню и режима практики.",
     "bypass.pausebuffering": "Буферизация паузы",
     "bypass.pausebuffering.desc": "Не позволяет игре блокировать буферизацию паузы.",
     "bypass.unlockicons": "Открыть иконки",
@@ -535,5 +535,11 @@
     "shortcuts.reset-bg-volume": "Сбросить громкость музыки",
     "shortcuts.reset-bg-volume.desc": "Сбрасывает громкость музыки до 100%",
     "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%",
-    "bot.ignore-inputs": "Игнорировать ввод"
+    "bot.ignore-inputs": "Игнорировать ввод",
+    "bypass.fastchests": "Быстрое открытие сундуков",
+    "global.show-taps.scale": "Выбрать размер",
+    "global.show-taps.fill": "Заполнить",
+    "level.legacypulse.fps": "К/сек",
+    "level.layoutmode": "Без декораций",
+    "level.layoutmode.desc": "Убирает все декорации с уровня."
 }
