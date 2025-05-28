@@ -534,5 +534,6 @@
     "level.confirmpractice.confirmexitpractice.desc": "Спрашивает Вас, точно ли Вы хотите выйти из режима практики.",
     "shortcuts.reset-bg-volume": "Сбросить громкость музыки",
     "shortcuts.reset-bg-volume.desc": "Сбрасывает громкость музыки до 100%",
-    "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%"
+    "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%",
+    "bot.ignore-inputs": "Игнорировать ввод"
 }
