@@ -111,5 +111,7 @@
     "interface.theme": "The Ships' Paint",
     "creator.hidetriggers.desc": "Hides triggers while testin' the waters.",
     "creator.hideui.desc": "Toss the UI overboard, leave only the adventure!",
-    "menu.animateWindows": "Smooth Hatch Movements"
+    "menu.animateWindows": "Smooth Hatch Movements",
+    "bypass.fastchests": "Fast pillage",
+    "bypass.fastchests.desc": "Treasures are faster to loot."
 }
