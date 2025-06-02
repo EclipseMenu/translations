@@ -401,5 +401,7 @@
     "level.showtriggers.desc": "Mostra todos os triggers durante gameplay",
     "global.show-taps.fill.desc": "Mostra Um Circulo Preenchido Ao Em Vez Da Linha De Um Circulo.",
     "bot.ignore-inputs": "Ignorar Teclas",
-    "bot.ignore-inputs.desc": "Faz com que o jogo ignore seu teclado quando você esta assistindo um Replay."
+    "bot.ignore-inputs.desc": "Faz com que o jogo ignore seu teclado quando você esta assistindo um Replay.",
+    "global.show-taps.scale": "Escala de toque",
+    "global.show-taps.color": "Cor do toque"
 }
