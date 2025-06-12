@@ -1,8 +1,8 @@
 {
-    "language-name": "Αγγλικά",
-    "language-charset": "Ελληνικά",
-    "language-native": "Αγγλικά",
-    "language-fallback": "gr_GR",
+    "language-name": "Greek",
+    "language-charset": "greek",
+    "language-native": "Eλληνικά",
+    "language-fallback": "en_US",
     "common.create": "Δημιουργώ",
     "common.cancel": "Ακύρωση",
     "common.warning": "Προσοχή",
