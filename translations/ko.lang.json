@@ -1,6 +1,6 @@
 {
     "creator.resetpercentonsave": "저장되었을때 기록 초기화",
-    "creator.resetpercentonsave.desc": "저장되었거나 베리파이되지 않았을때 기록을 0%로 만듭니다.",
+    "creator.resetpercentonsave.desc": "저장되었거나 베리파이되지 않았을때 기록을 0%로 만듭니다. (TechStudent10가 제작)",
     "creator.sliderlimit": "슬라이더 제한",
     "creator.sliderlimit.desc": "슬라이더의 최소/최대 제한을 제거합니다.",
     "creator.smoothtrail": "부드러운 에디터 트레일",

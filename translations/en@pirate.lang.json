@@ -104,12 +104,14 @@
     "bypass.charfilter.desc": "Gives ye free rein to squawk what ye please.",
     "bypass.instantcomplete.desc": "Finishes the level quicker than a cannonball!",
     "creator.hideui": "Clear Deck",
-    "creator.resetpercentonsave.desc": "Erase the voyage progress when ye save.",
+    "creator.resetpercentonsave.desc": "Erase the voyage progress when ye save. (Crafted by TechStudent10)",
     "menu.animationDuration": "How Long the Hatch Moves",
     "bypass.menugameplay.desc": "Control yer scallywag on the main deck.",
     "global.audiospeed.desc": "Speed up or slow down the tunes of the sea.",
     "interface.theme": "The Ships' Paint",
     "creator.hidetriggers.desc": "Hides triggers while testin' the waters.",
     "creator.hideui.desc": "Toss the UI overboard, leave only the adventure!",
-    "menu.animateWindows": "Smooth Hatch Movements"
+    "menu.animateWindows": "Smooth Hatch Movements",
+    "bypass.fastchests": "Fast pillage",
+    "bypass.fastchests.desc": "Treasures are faster to loot."
 }

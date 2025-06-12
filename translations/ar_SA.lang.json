@@ -93,7 +93,7 @@
     "creator.nocopymark": "لا علامة (C)",
     "creator.nocopymark.desc": "إزالة علامة النسخ من مستوياتك عند التحميل.",
     "creator.resetpercentonsave": "إعادة ضبط النسبة عند الحفظ",
-    "creator.resetpercentonsave.desc": "إعادة ضبط نسبة إلى %0 عند الحفظ/عدم التحقق.",
+    "creator.resetpercentonsave.desc": "إعادة ضبط نسبة إلى %0 عند الحفظ/عدم التحقق. (تم إنشاؤه من طرف TechStudent10)",
     "creator.sliderlimit": "حد شريط التمرير",
     "creator.sliderlimit.desc": "إزالة الحد الأدنى/الأقصى على شريط التمرير.",
     "creator.smoothtrail": "مسار محرر سلس",

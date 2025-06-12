@@ -93,7 +93,7 @@
     "creator.nocopymark": "Tắt Dấu (C)",
     "creator.nocopymark.desc": "Bỏ dấu copy khỏi level của bạn khi đăng lên.",
     "creator.resetpercentonsave": "Đặt Lại Quá Trình khi Lưu",
-    "creator.resetpercentonsave.desc": "Đặt lại quá trình một level về 0% khi lưu/bỏ verify.",
+    "creator.resetpercentonsave.desc": "Đặt lại quá trình một level về 0% khi lưu/bỏ verify. (Tạo bởi TechStudent10)",
     "creator.sliderlimit": "Giới Hạn Thanh Trượt",
     "creator.sliderlimit.desc": "Xoá các giới hạn tối thiểu/tối đa của các thanh trượt.",
     "creator.smoothtrail": "Trail Editor Trơn",

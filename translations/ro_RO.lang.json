@@ -93,7 +93,7 @@
     "creator.nocopymark": "Fără (C)",
     "creator.nocopymark.desc": "Elimină marcajul de \"copiat\" de la nivelul tău când îl încarci online.",
     "creator.resetpercentonsave": "Resetează Procentajul La Salvare",
-    "creator.resetpercentonsave.desc": "Resetează procentajul în normal mode la 0% la salvare / când devine unverified.",
+    "creator.resetpercentonsave.desc": "Resetează procentajul în normal mode la 0% la salvare / când devine unverified. (Creat de TechStudent10)",
     "creator.sliderlimit": "Limită Slidere",
     "creator.sliderlimit.desc": "Elimină limita minimă/maximă pentru slidere.",
     "creator.smoothtrail": "Trail mai receptiv în Editor",

@@ -63,7 +63,7 @@
     "bypass.practicemusic": "Музыка в практике",
     "bypass.practicemusic.desc": "Позволяет использовать музыку из обычного режима в режиме практики.",
     "bypass.musiccustomizer": "Настраиваемая музыка",
-    "bypass.musiccustomizer.desc": "Позволяет выбрать любую музыку для меню и режима практики.",
+    "bypass.musiccustomizer.desc": "Позволяет использовать любую музыку для меню и режима практики.",
     "bypass.pausebuffering": "Буферизация паузы",
     "bypass.pausebuffering.desc": "Не позволяет игре блокировать буферизацию паузы.",
     "bypass.unlockicons": "Открыть иконки",
@@ -93,7 +93,7 @@
     "creator.nocopymark": "Без значка (C)",
     "creator.nocopymark.desc": "Убирает значок копии с Ваших уровней при их выкладывании на сервер.",
     "creator.resetpercentonsave": "Сброс процентов",
-    "creator.resetpercentonsave.desc": "Сбрасывает процент прохождения на уровне до 0% при сохранении непроверенных уровней.",
+    "creator.resetpercentonsave.desc": "Сбрасывает процент прохождения на уровне до 0% при сохранении непроверенных уровней. (Создано TechStudent10)",
     "creator.sliderlimit": "Лимит ползунков",
     "creator.sliderlimit.desc": "Убирает верхние и нижние границы ползунков.",
     "creator.smoothtrail": "Плавный след в редакторе",
@@ -534,5 +534,12 @@
     "level.confirmpractice.confirmexitpractice.desc": "Спрашивает Вас, точно ли Вы хотите выйти из режима практики.",
     "shortcuts.reset-bg-volume": "Сбросить громкость музыки",
     "shortcuts.reset-bg-volume.desc": "Сбрасывает громкость музыки до 100%",
-    "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%"
+    "shortcuts.reset-sfx-volume.desc": "Сбрасывает громкость звуков до 100%",
+    "bot.ignore-inputs": "Игнорировать ввод",
+    "bypass.fastchests": "Быстрое открытие сундуков",
+    "global.show-taps.scale": "Выбрать размер",
+    "global.show-taps.fill": "Заполнить",
+    "level.legacypulse.fps": "К/сек",
+    "level.layoutmode": "Без декораций",
+    "level.layoutmode.desc": "Убирает все декорации с уровня."
 }
