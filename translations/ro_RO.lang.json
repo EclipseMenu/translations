@@ -548,7 +548,7 @@
     "level.layoutmode": "Modul de Layout",
     "level.layoutmode.desc": "Scoate toate decorațiunile asociate cu un nivel.",
     "level.legacypulse": "Pulsul Vechi",
-    "level.legacypulse.desc": "Restabilește efectul de puls din versiunile anterioare.",
+    "level.legacypulse.desc": "Restabilește efectul de puls din versiunile anterioare. (Creat de Tpdea)",
     "level.legacypulse.force_fps": "Forțează FPS",
     "level.legacypulse.force_fps.desc": "Activează FPS fix pentru simularea pulsului vechi.",
     "level.legacypulse.fps": "FPS",
