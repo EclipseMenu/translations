@@ -415,7 +415,7 @@
     "level.layoutmode": "Modo de Layout",
     "level.layoutmode.desc": "Remove toda a decoração associada a um nível.",
     "level.legacypulse": "Pulso Legado",
-    "level.legacypulse.desc": "Restaure o efeito de pulso de versões mais antigas.",
+    "level.legacypulse.desc": "Restaure o efeito de pulso de versões mais antigas. (Por Tpdea)",
     "level.legacypulse.force_fps": "Força FPS",
     "level.legacypulse.force_fps.desc": "Habilitar FPS fixo para simulação de pulso legada.",
     "level.startpos_switcher.previous": "Posição Inicial Anterior",
