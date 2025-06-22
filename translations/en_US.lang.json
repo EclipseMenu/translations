@@ -358,7 +358,7 @@
     "level.layoutmode": "Layout Mode",
     "level.layoutmode.desc": "Removes all decoration associated with a level.",
     "level.legacypulse": "Legacy Pulse",
-    "level.legacypulse.desc": "Restore the pulse effect from older versions.",
+    "level.legacypulse.desc": "Restore the pulse effect from older versions. (Created by Tpdea)",
     "level.legacypulse.force_fps": "Force FPS",
     "level.legacypulse.force_fps.desc": "Enable fixed FPS for legacy pulse simulation.",
     "level.legacypulse.fps": "FPS",
