@@ -362,5 +362,12 @@
     "level.legacypulse": "原始音乐跳动",
     "level.legacypulse.desc": "带回以前的音乐跳动方式。(感谢Tpdea制作)",
     "level.legacypulse.fps": "FPS (每秒帧数)",
-    "level.legacyreversephysics": "原始的倒立物理"
+    "level.legacyreversephysics": "原始的倒立物理",
+    "level.matchlabelfonts.desc": "把百分文字的字体和尝试数文字字体匹配。(感谢RayDeeUx制作)",
+    "level.legacyreversephysics.desc": "强求用原始的倒立物理，和其他的原始物理。",
+    "level.matchlabelfonts": "匹配百分/时间文字的字体",
+    "level.mutelevelsfx": "静音关卡SFX",
+    "level.mutelevelsfx.desc": "禁用SFX/Edit SFX扳机。(感谢RayDeeUx制作)",
+    "level.noglow": "无物体光亮",
+    "level.noglow.desc": "去除所有物体的光亮。"
 }
