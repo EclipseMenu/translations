@@ -422,6 +422,7 @@
     "level.startpos_switcher.next": "Next StartPos",
     "level.startpos_switcher.reset_camera": "Reset Camera",
     "level.startpos_switcher.label": "Show Label",
+    "level.startpos_switcher.delay": "Delay",
     "label.startpos_switcher.scale": "Label Scale",
     "label.startpos_switcher.alpha_mod": "Alpha Modifier",
     "label.startpos_switcher.color": "Label Color",
