@@ -573,5 +573,6 @@
     "player.customwavetrail.outline.stroke": "Tamaño del contorno",
     "player.customwavetrail.outline.blur": "Cantidad de difuminado",
     "player.forceghosttrail": "Forzar estela fantasma",
-    "player.forceghosttrail.desc": "Siempre muestra la estela fantasma del jugador."
+    "player.forceghosttrail.desc": "Siempre muestra la estela fantasma del jugador.",
+    "level.startpos_switcher.delay": "Demora"
 }
