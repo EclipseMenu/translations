@@ -369,5 +369,13 @@
     "level.mutelevelsfx": "静音关卡SFX",
     "level.mutelevelsfx.desc": "禁用SFX/Edit SFX扳机。(感谢RayDeeUx制作)",
     "level.noglow": "无物体光亮",
-    "level.noglow.desc": "去除所有物体的光亮。"
+    "level.noglow.desc": "去除所有物体的光亮。",
+    "level.nomirror": "无翻转",
+    "level.nomirror.desc": "禁用此屏幕翻转动画。",
+    "level.noparticles": "无粒子",
+    "level.noparticles.desc": "禁用在关卡内的粒子。",
+    "level.noparticles.nomiscparticles": "无杂项的粒子",
+    "level.noparticles.nomiscparticles.desc": "杂项的粒子包括变速门户的、硬币的、和其他的粒子…",
+    "level.noparticles.nocustomparticles": "无专门粒子",
+    "level.noparticles.nocustomparticles.desc": "专门粒子包括从关卡内粒子物体来的粒子。"
 }
