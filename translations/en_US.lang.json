@@ -518,6 +518,8 @@
     "player.alwaystrail.desc": "Always show the player trail.",
     "player.novehicleparticles": "No Vehicle Particles",
     "player.novehicleparticles.desc": "Hides vehicle particles.",
+    "player.nowavetrailbehind": "No Wave Trail Behind",
+    "player.nowavetrailbehind.desc": "Force the player trail off exclusively for the wave.",
     "player.respawndelay": "Respawn Delay",
     "player.showtrajectory": "Show Trajectory",
     "player.showtrajectory.desc": "Shows where the player will be if they click/don't click.",
@@ -579,5 +581,9 @@
     "shortcuts.recount-secret-coins.title": "Fix Secret Coins?",
     "shortcuts.recount-secret-coins.nochange": "There was no change in the amount of secret coins you have!",
     "shortcuts.recount-secret-coins.error": "You have more secret coins ({}) than the recounted amount ({})!",
-    "shortcuts.recount-secret-coins.msg": "You have less secret coins ({}) than the recounted amount ({})! Would you like to change that?\nYou can't undo this process."
+    "shortcuts.recount-secret-coins.msg": "You have less secret coins ({}) than the recounted amount ({})! Would you like to change that?\nYou can't undo this process.",
+    "shortcuts.show-level-password": "Show Level Password",
+    "shortcuts.show-level-password.desc": "Shows a popup of the level password for the level.",
+    "shortcuts.show-level-password.msg": "The password is \"{}\"!",
+    "shortcuts.show-level-password.error": "A password could not be found for the level you are playing!"
 }
