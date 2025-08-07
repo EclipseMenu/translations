@@ -207,7 +207,7 @@
     "level.hitbox_multiplier.desc": "Zmienia skalę hitboxów w grze.",
     "level.legacyreversephysics.desc": "Wymusza starą fizykę do góry nogami i inne stare zmiany w fizyce.",
     "global.speedhack": "Speedhack",
-    "level.allpassable.desc": "Pozwala na przechodzenie przez bloki, które normalnie są solidne.\n(Stworzone przez Kingminer7)",
+    "level.allpassable.desc": "Pozwala na przechodzenie przez bloki, które normalnie są solidne.\n(Stworzone przez km7)",
     "player.ballrotation.desc": "Przywraca błąd rotacji podczas zmiany trybu gry z Ball na inny.",
     "player.nodeatheffect": "Wyłącz efekt śmierci",
     "level.zeropercentpractice.desc": "Ukończenia od 0% w trybie treningowym są traktowane jako ukończenia w trybie normalnym.",

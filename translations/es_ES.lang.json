@@ -318,7 +318,7 @@
     "labels.presets": "Preestablecidos",
     "labels.font-alignment.right": "Derecha",
     "level.legacyreversephysics.desc": "Fuerza las físicas invertidas antiguas entre otros cambios.",
-    "level.allpassable.desc": "Te permite pasar por bloques que normalmente son sólidos\n(Creado por Kingminer7)",
+    "level.allpassable.desc": "Te permite pasar por bloques que normalmente son sólidos\n(Creado por km7)",
     "level.checkpointdelay.desc": "Elimina un fotograma de retraso cuando pones checkpoints.",
     "global.discordrpc.buttons.url": "URL",
     "menu.animationEasingType": "Tipo de interpolación",
@@ -560,7 +560,7 @@
     "level.layoutmode": "Modo Layout",
     "level.layoutmode.desc": "Elimina toda decoración asociada a un nivel.",
     "level.legacypulse": "Pulso antiguo",
-    "level.legacypulse.desc": "Restablece el efecto del pulso de versiones anteriores.",
+    "level.legacypulse.desc": "Restablece el efecto del pulso de versiones anteriores. (Creado por Tpdea)",
     "level.legacypulse.force_fps": "Forzar FPS",
     "level.legacypulse.force_fps.desc": "Habilitar FPS fijos para la simulación del antiguo pulso.",
     "level.legacytrail": "Estela Antigua",
@@ -573,5 +573,6 @@
     "player.customwavetrail.outline.stroke": "Tamaño del contorno",
     "player.customwavetrail.outline.blur": "Cantidad de difuminado",
     "player.forceghosttrail": "Forzar estela fantasma",
-    "player.forceghosttrail.desc": "Siempre muestra la estela fantasma del jugador."
+    "player.forceghosttrail.desc": "Siempre muestra la estela fantasma del jugador.",
+    "level.startpos_switcher.delay": "Demora"
 }
