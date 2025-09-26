@@ -173,6 +173,7 @@
     "global.safemode.desc": "Prevents the game from saving any level progress.",
     "global.safemode.freeze_attempts": "Freeze Attempt Count",
     "global.safemode.freeze_jumps": "Freeze Jump Count",
+    "global.safemode.freeze_best_run": "Freeze Best Run",
     "global.speedhack": "Speedhack",
     "global.speedhack.desc": "Changes the speed of the game.",
     "global.tpsbypass": "Physics Bypass",
