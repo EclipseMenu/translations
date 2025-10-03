@@ -586,5 +586,7 @@
     "shortcuts.show-level-password": "Show Level Password",
     "shortcuts.show-level-password.desc": "Shows a popup of the level password for the level.",
     "shortcuts.show-level-password.msg": "The password is \"{}\"!",
-    "shortcuts.show-level-password.error": "A password could not be found for the level you are playing!"
+    "shortcuts.show-level-password.error": "A password could not be found for the level you are playing!",
+    "shortcuts.show-graphic-settings": "Open Graphics Settings",
+    "shortcuts.show-graphic-settings.desc": "Open the graphics settings menu, even if it's inaccessible."
 }
