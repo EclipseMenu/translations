@@ -373,6 +373,8 @@
     "level.mutelevelsfx.desc": "Disables SFX/Edit SFX triggers. (Created by RayDeeUx)",
     "level.noglow": "No Object Glow",
     "level.noglow.desc": "Disables all glow coming from objects.",
+	"level.noendshake": "No End Shake",
+	"level.noendshake.desc": "Disables the shaking effect when you complete a level.",
     "level.nomirror": "No Mirror",
     "level.nomirror.desc": "Disables the mirror portal effect.",
     "level.noparticles": "No Particles",
