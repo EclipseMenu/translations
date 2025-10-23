@@ -523,7 +523,7 @@
     "player.nowavetrailbehind.desc": "Force the player trail off exclusively for the wave.",
     "player.respawndelay": "Respawn Delay",
     "player.shipcopter": "Shipcopter",
-    "player.shipcopter.desc": "Adjusts the controls of the swing gamemode to behave like the ship gamemode.",
+    "player.shipcopter.desc": "Adjusts the controls of the swing gamemode to behave like the ship gamemode. (Created by Beat)",
     "player.showtrajectory": "Show Trajectory",
     "player.showtrajectory.desc": "Shows where the player will be if they click/don't click.",
     "player.showtrajectory.iterations": "Iterations",
