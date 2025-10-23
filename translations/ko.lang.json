@@ -420,7 +420,7 @@
     "level.accuratepercentage.bugfix": "0% 버그 수정",
     "level.accuratepercentage.show_minutes": "형식화된 타이머",
     "level.allpassable": "모두 통과 가능",
-    "level.allpassable.desc": "보통 단단한 블록을 통과할 수 있도록 합니다.\n(Kingminer7 제작)",
+    "level.allpassable.desc": "보통 단단한 블록을 통과할 수 있도록 합니다.\n(km7 제작)",
     "level.alwaysshowcoins": "항상 코인 표시",
     "level.alwaysshowcoins.desc": "수집되지 않은 코인의 변형을 항상 표시합니다.",
     "level.autoldm": "자동 LDM",
