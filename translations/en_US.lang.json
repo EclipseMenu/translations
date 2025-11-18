@@ -474,6 +474,7 @@
     "player.customwavetrail.outline.color": "Outline Color",
     "player.customwavetrail.outline.stroke": "Outline Stroke",
     "player.customwavetrail.outline.blur": "Blur Amount",
+	"player.customwavetrail.pulse": "Wave Trail Pulse",
     "player.forceghosttrail": "Force Ghost Trail",
     "player.forceghosttrail.desc": "Always shows the player ghost trail.",
     "player.framestepper": "Frame Stepper",
