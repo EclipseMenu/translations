@@ -110,6 +110,8 @@
     "global.audiospeed.desc": "Changes the speed of the audio.",
     "global.audiospeed.sync": "Sync with Speedhack",
     "global.audiospeed.sync.desc": "Sync audio speed with speedhack, if it's enabled.",
+    "global.vsync": "Vertical Sync",
+    "global.vsync.desc": "Toggles vertical sync, useful to prevent screen tearing.",
     "global.click-between-frames": "Click Between Frames",
     "global.click-between-frames.desc": "Toggle the Click Between Frames mod.",
     "global.compacteditorlevels": "Compact Editor Levels",
