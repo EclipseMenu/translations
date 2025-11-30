@@ -165,6 +165,7 @@
     "global.fpsbypass": "FPS Bypass",
     "global.lockcursor": "Lock Cursor",
     "global.lockcursor.desc": "Locks the cursor to the window when playing.",
+	"global.nomusicfadeout": "No Music Fade Out",
     "global.noshortnumbers": "No Short Numbers",
     "global.noshortnumbers.desc": "Removes any number abbreviations. (Example: 23.4K -> 23400)",
     "global.noshortnumbers.thousands": "Thousands Separator",
