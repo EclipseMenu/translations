@@ -224,6 +224,7 @@
     "menu.animationEasingMode.0": "Ease In",
     "menu.animationEasingMode.1": "Ease Out",
     "menu.animationEasingMode.2": "Ease In Out",
+	"menu.horizontallyCenter": "Center Horizontally",
     "interface.accent-color": "Accent Color",
     "interface.background-color": "Background Color",
     "interface.language": "Language",
