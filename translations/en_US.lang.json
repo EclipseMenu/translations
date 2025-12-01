@@ -123,6 +123,7 @@
     "global.discordrpc.desc": "Enables Discord Rich Presence integration.",
     "global.discordrpc.client-id": "Client ID",
     "global.discordrpc.update-rate": "Update interval (ms)",
+	"global.discordrpc.update-rate.desc": "How often the status should be updated.",
     "global.discordrpc.time-mode": "Time Mode",
     "global.discordrpc.time-mode.0": "Disabled",
     "global.discordrpc.time-mode.1": "Total playtime",
