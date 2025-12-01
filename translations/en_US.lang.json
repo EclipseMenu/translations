@@ -393,6 +393,8 @@
 	"level.noendshake.desc": "Disables the shaking effect when you complete a level.",
     "level.nomirror": "No Mirror",
     "level.nomirror.desc": "Disables the mirror portal effect.",
+	"level.nomusicfadeout": "No Music Fade Out",
+	"level.nomusicfadeout.desc": "Music set to fade out in a level no longer fades out. (Created by Beat)",
     "level.noparticles": "No Particles",
     "level.noparticles.desc": "Hides portal, coin, custom, etc particles in levels.",
     "level.noparticles.nomiscparticles": "No Misc. Particles",
