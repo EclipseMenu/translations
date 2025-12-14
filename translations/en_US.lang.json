@@ -551,6 +551,8 @@
     "player.showtrajectory.iterations": "Iterations",
     "player.solidwavetrail": "Solid Wave Trail",
     "player.solidwavetrail.desc": "Makes the player wave trail a solid color.",
+	"player.wavetrailondeath": "Wave Trail On Death",
+	"player.wavetrailondeath.desc": "Makes the player wave trail not disappear upon death.",
     "recorder.finished": "Recording finished! Time taken: {0}",
     "recorder.open-folder": "Open folder",
     "recorder.start": "Start Recording",
