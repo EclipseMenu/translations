@@ -553,6 +553,8 @@
     "player.solidwavetrail.desc": "Makes the player wave trail a solid color.",
 	"player.wavetrailondeath": "Wave Trail On Death",
 	"player.wavetrailondeath.desc": "Makes the player wave trail not disappear upon death.",
+	"player.wavetrailondeath.persist-trail": "Persist Trail",
+	"player.wavetrailondeath.persist-trail.desc": "Prevents the player wave trail from disappearing even after changing gamemodes.",
     "recorder.finished": "Recording finished! Time taken: {0}",
     "recorder.open-folder": "Open folder",
     "recorder.start": "Start Recording",
