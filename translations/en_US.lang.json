@@ -420,6 +420,8 @@
     "level.randomseed": "Random Seed",
     "level.randomseed.desc": "Sets a seed of choice for all random triggers.",
     "level.randomseed.seed": "Seed",
+	"level.randomseed.constantseed": "Constant Seed",
+	"level.randomseed.constantseed.desc": "Changes the seed mid level, otherwise only set it when attempt starts.",
     "level.showhitboxes": "Show Hitboxes",
     "level.showhitboxes.desc": "Shows hitboxes for all objects in the level.",
     "level.showhitboxes.editor": "Show in Editor",
