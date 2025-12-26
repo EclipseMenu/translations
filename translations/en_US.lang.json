@@ -459,6 +459,8 @@
     "label.startpos_switcher.buttons.desc": "Toggles between showing and hiding the arrow buttons in the StartPos Switcher UI.",
     "level.stoptrigondeath": "Stop Triggers on Death",
     "level.stoptrigondeath.desc": "Stops all triggers from continuing when you die.\n(Warning: May break some levels that rely on death trigger)",
+	"level.stoptrigondeath.platformer": "Platformer",
+    "level.stoptrigondeath.platformer.desc": "Allows triggers to stop when dying while in platformer.\n(Warning: This may mess up your awarded points)",
     "level.legacytrail": "Legacy Trail",
     "level.legacytrail.desc": "Restore the trail effect from older versions.",
     "level.legacytrail.max_points": "Points",
