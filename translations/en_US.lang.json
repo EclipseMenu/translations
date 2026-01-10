@@ -47,6 +47,7 @@
     "bot.ignore-inputs": "Ignore Inputs",
     "bot.ignore-inputs.desc": "Prevents your inputs from being registered when replaying.",
 	"bot.practice-fix-mode": "Practice Fix Mode",
+	"bot.open-replays-folder": "Open Replays Folder",
     "bypass.allowlowvolume": "Allow Low Volume",
     "bypass.allowlowvolume.desc": "Allows setting the volume lower than 3%.",
     "bypass.charfilter": "Character Filter Bypass",
