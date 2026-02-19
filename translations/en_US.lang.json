@@ -69,6 +69,8 @@
     "bypass.musiccustomizer.desc": "Allows you to pick custom menu and practice music.",
     "bypass.pausebuffering": "Pause Buffering",
     "bypass.pausebuffering.desc": "Prevents the game from blocking pause buffering.",
+	"bypass.showspamcomments": "Show Spam Comments",
+	"bypass.showspamcomments.desc": "Shows comments marked as spam without manually pressing the 'Show' button. (Created by Beat)",
     "bypass.unlockicons": "Unlock Icons",
     "bypass.unlockicons.desc": "Unlocks all icons and colors in the garage.",
     "bypass.unlockpaths": "Unlock Paths",
