@@ -497,6 +497,7 @@
     "player.ballrotation.variation.desc": "Adds variation when the ball spins.",
     "player.clicktp": "Click Teleport",
     "player.clicktp.desc": "Teleport player to the mouse cursor's position when right clicking.",
+	"player.clicktp.key": "Teleport Key",
     "player.customwavetrail": "Custom Wave Trail",
     "player.customwavetrail.desc": "Customize the wave trail color and size.",
     "player.customwavetrail.scale": "Scale",
