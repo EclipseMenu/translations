@@ -87,6 +87,8 @@
     "bypass.copybypass.desc": "Allows you to copy any level.",
     "bypass.fastchests": "Quick Chests",
     "bypass.fastchests.desc": "Makes chest's opening animation almost instant.",
+	"bypass.swiftclick": "Swift Click",
+	"bypass.swiftclick.desc": "Allows you to bypass Geometry Dash's patch that prevents swift clicking.",
     "creator.customobjectbypass": "Custom Object Bypass",
     "creator.customobjectbypass.desc": "Allows you to go beyond the 1000 object limit for custom objects.",
     "creator.defaultsongbypass": "Default Song Bypass",
